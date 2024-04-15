@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t19_GnuCLexer_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool -glib "StdCParser.g" GnuCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool -glib "StdCParser.g" GnuCParser.g</actual_command>
+  </target>
+  <target name="t48_AspectCGram_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t8_CSymbolTable_java"></target>
+  <target name="t35_AspectCParser_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t41_TestThrough_java"></target>
+  <target name="t21_GnuCTreeParser_g"></target>
+  <target name="t44_StdCGram_java"></target>
+  <target name="t56_all">
+    <command>mkdir -p build</command>
+    <command>javac -classpath ${LILLAMBI}/lib/jaxen-full.jar:${LILLAMBI}/lib/saxpath.jar:${LILLAMBI}/src:${LILLAMBI}/lib/2p.jar -d build/ `find . -name *.java`</command>
+    <actual_command>mkdir -p build</actual_command>
+    <actual_command>javac -classpath /home/bram/workspace/svn/lillambi/lib/jaxen-full.jar:/home/bram/workspace/svn/lillambi/lib/saxpath.jar:/home/bram/workspace/svn/lillambi/src:/home/bram/workspace/svn/lillambi/lib/2p.jar -d build/ `find . -name *.java`</actual_command>
+  </target>
+  <target name="t31_GnuCParser_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t9_TNode_java"></target>
+  <target name="t51_Makefile"></target>
+  <target name="t25_AspectCParser_g"></target>
+  <target name="t16_StdCLexer_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool StdCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool StdCParser.g</actual_command>
+  </target>
+  <target name="t10_TNodeFactory_java"></target>
+  <target name="t45_Test_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t39_Test_java"></target>
+  <target name="t38_all"></target>
+  <target name="t12_LineObject_java"></target>
+  <target name="t33_GnuCTreeParser_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t28_PreprocessorInfoChannel_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t34_GnuCEmitter_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t46_TestLex_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t5_all">
+    <command>make -C grammars/ all</command>
+    <command>make -C examples/ all</command>
+    <actual_command>make -C grammars/ all</actual_command>
+    <actual_command>make -C examples/ all</actual_command>
+  </target>
+  <target name="t29_StdCParser_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t22_GnuCEmitter_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCTreeParser.g" GnuCEmitter.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCTreeParser.g" GnuCEmitter.g</actual_command>
+  </target>
+  <target name="t53_spiderman_bsh">
+    <command>@dajtojava -in spiderman.daj -out ../../java/src/be/ugent/ftw/intec/sel/aspicere/SpiderMan.java</command>
+    <actual_command>@dajtojava -in spiderman.daj -out ../../java/src/be/ugent/ftw/intec/sel/aspicere/SpiderMan.java</actual_command>
+  </target>
+  <target name="t30_StdCLexer_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t11_CToken_java"></target>
+  <target name="t27_LineObject_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t49_GnuCGram_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t55_Makefile"></target>
+  <target name="t47_TestThrough_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t37_Makefile"></target>
+  <target name="all">
+    <command>#make -C parser/ all</command>
+    <command>make -C cgram/ all</command>
+    <command>make -C agents/aspicere/ all</command>
+    <command>make -C java/ all</command>
+    <command>#make -C sandbox/ all</command>
+    <command>chmod 755 bin/*</command>
+    <command>#chmod 755 lib/*.pl</command>
+    <command>chmod 755 cgram/examples/*gram</command>
+    <command>find sandbox -name *.sh -exec chmod 755 {} \;</command>
+    <actual_command>#make -C parser/ all</actual_command>
+    <actual_command>make -C cgram/ all</actual_command>
+    <actual_command>make -C agents/aspicere/ all</actual_command>
+    <actual_command>make -C java/ all</actual_command>
+    <actual_command>#make -C sandbox/ all</actual_command>
+    <actual_command>chmod 755 bin/*</actual_command>
+    <actual_command>#chmod 755 lib/*.pl</actual_command>
+    <actual_command>chmod 755 cgram/examples/*gram</actual_command>
+    <actual_command>find sandbox -name *.sh -exec chmod 755 {} \;</actual_command>
+  </target>
+  <target name="t15_StdCParser_g"></target>
+  <target name="t24_AspectCParser_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCParser.g;StdCParser.g" AspectCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCParser.g;StdCParser.g" AspectCParser.g</actual_command>
+  </target>
+  <target name="t26_AspectCLexer_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCParser.g;StdCParser.g" AspectCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool -glib "GnuCParser.g;StdCParser.g" AspectCParser.g</actual_command>
+  </target>
+  <target name="t18_GnuCParser_g"></target>
+  <target name="t40_TestLex_java"></target>
+  <target name="t36_AspectCLexer_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t23_GnuCEmitter_g"></target>
+  <target name="t43_GnuCGram_java"></target>
+  <target name="t4_Makefile"></target>
+  <target name="t13_PreprocessorInfoChannel_java"></target>
+  <target name="t1_Makefile"></target>
+  <target name="t52_all"></target>
+  <target name="t3_configure">
+    <command>autoconf</command>
+    <command>chmod 755 ${ASPICERE}/config.guess</command>
+    <command>./configure</command>
+    <actual_command>autoconf</actual_command>
+    <actual_command>chmod 755 /home/bram/workspace/svn/aspicere/trunk/config.guess</actual_command>
+    <actual_command>./configure</actual_command>
+  </target>
+  <target name="t6_Makefile"></target>
+  <target name="t20_GnuCTreeParser_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool GnuCTreeParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool GnuCTreeParser.g</actual_command>
+  </target>
+  <target name="t14_StdCParser_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool StdCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool StdCParser.g</actual_command>
+  </target>
+  <target name="t7_all"></target>
+  <target name="t17_GnuCParser_java">
+    <command>java -cp ../antlr.jar:. antlr.Tool -glib "StdCParser.g" GnuCParser.g</command>
+    <actual_command>java -cp ../antlr.jar:. antlr.Tool -glib "StdCParser.g" GnuCParser.g</actual_command>
+  </target>
+  <target name="t32_GnuCLexer_class">
+    <command>javac -classpath ../antlr.jar:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:. $&lt;</actual_command>
+  </target>
+  <target name="t50_StdCGram_class">
+    <command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</command>
+    <actual_command>javac -classpath ../antlr.jar:../grammars/:. $&lt;</actual_command>
+  </target>
+  <target name="t54_spiderman_daj"></target>
+  <target name="t42_AspectCGram_java"></target>
+</build>

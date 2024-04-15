@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t79_caldate_ster_c"></target>
+  <target name="t155_pl_read_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t184_pl_feature_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t283____library_shell_pl"></target>
+  <target name="t156_pl_read_c"></target>
+  <target name="t253____library_debug_pl"></target>
+  <target name="t214_sharedlib"></target>
+  <target name="t96_staticlib"></target>
+  <target name="t177_pl_term_c"></target>
+  <target name="t144_pl_op_c"></target>
+  <target name="t275____library_prolog_stack_pl"></target>
+  <target name="t85_leapsecs_add_c"></target>
+  <target name="t154_pl_prof_c"></target>
+  <target name="t13____include_SWI_Stream_h">
+    <command>cp $(srcdir)/pl-stream.h $@</command>
+    <actual_command>cp /Users/bram/Desktop/pl-5.6.17/src/pl-stream.h $@</actual_command>
+  </target>
+  <target name="t231____boot_attvar_pl"></target>
+  <target name="t219_pl_extend_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t18_Makefile"></target>
+  <target name="t132_pl_gc_c"></target>
+  <target name="t186_pl_ctype_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t271____library_ordsets_pl"></target>
+  <target name="t134_pl_glob_c"></target>
+  <target name="t221_swipl_prc">
+    <command>$(DEVPL) -O -o $(STARTUPPATH) -b $(PLINIT)</command>
+    <actual_command>./pl.sh -O -o swipl.prc -b ../boot/init.pl</actual_command>
+  </target>
+  <target name="t139_pl_load_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="all"></target>
+  <target name="t105_pl_index_c"></target>
+  <target name="t52_taia_frac_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t22_html_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t25_access_c"></target>
+  <target name="t287____library_threadutil_pl"></target>
+  <target name="t109_pl_error_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t142_pl_modul_c"></target>
+  <target name="t152_pl_proc_c"></target>
+  <target name="t77_caldate_norm_c"></target>
+  <target name="t143_pl_op_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t8_headers"></target>
+  <target name="t276____library_prolog_xref_pl"></target>
+  <target name="t269____library_operators_pl"></target>
+  <target name="t248____library_checklast_pl"></target>
+  <target name="t88_caltime_fmt_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t81_leapsecs_read_c"></target>
+  <target name="t279____library_quintus_pl"></target>
+  <target name="t60_taia_pack_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t173_pl_wic_c"></target>
+  <target name="t212_rc_util_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t108_pl_stream_c"></target>
+  <target name="t45_tai_unpack_c"></target>
+  <target name="t65_taia_tai_c"></target>
+  <target name="t26_build_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t82_leapsecs_init_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t83_leapsecs_init_c"></target>
+  <target name="t27_build_c"></target>
+  <target name="t61_taia_pack_c"></target>
+  <target name="t75_caldate_mjd_c"></target>
+  <target name="t223____boot_syspred_pl"></target>
+  <target name="t119_pl_dwim_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t41_tai_pack_c"></target>
+  <target name="t100__Users_bram_Desktop_pl_5_6_17_src_pl_funct_ih">
+    <command>cd $(srcdir) ; $(AWK) -f defatom.awk &lt; ATOMS</command>
+    <actual_command>cd /Users/bram/Desktop/pl-5.6.17/src ; awk -f defatom.awk &lt; ATOMS</actual_command>
+  </target>
+  <target name="t90_caltime_scan_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t259____library_files_pl"></target>
+  <target name="t30_rc_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t101__Users_bram_Desktop_pl_5_6_17_src_ATOMS"></target>
+  <target name="t87_leapsecs_sub_c"></target>
+  <target name="t158_pl_rec_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t249____library_checkselect_pl"></target>
+  <target name="t207_rc_access_c"></target>
+  <target name="t48_taia_approx_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t47_taia_add_c"></target>
+  <target name="t123_pl_file_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t162_pl_setup_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t130_pl_funct_c"></target>
+  <target name="t204_pl_tai_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t188_pl_beos_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t57_taia_less_c"></target>
+  <target name="t280____library_readln_pl"></target>
+  <target name="t120_pl_dwim_c"></target>
+  <target name="t191_pl_attvar_c"></target>
+  <target name="t200_pl_text_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t66_taia_unpack_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t33_Makefile"></target>
+  <target name="t211_rc_html_c"></target>
+  <target name="t209_rc_build_c"></target>
+  <target name="t197_pl_utf8_c"></target>
+  <target name="t149_pl_pro_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t55_taia_half_c"></target>
+  <target name="t273____library_progman_pl"></target>
+  <target name="t21_librc_a">
+    <command>rm -f $@</command>
+    <command>$(AR) cq $@ $(LIBOBJ)</command>
+    <command>$(RANLIB) $@</command>
+    <actual_command>rm -f $@</actual_command>
+    <actual_command>ar cq $@ html.o access.o build.o util.o</actual_command>
+    <actual_command>ranlib $@</actual_command>
+  </target>
+  <target name="t291____library_utf8_pl"></target>
+  <target name="t260____library_gensym_pl"></target>
+  <target name="t254____library_dif_pl"></target>
+  <target name="t127_pl_fmt_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t189_pl_beos_c"></target>
+  <target name="t39_tai_now_c"></target>
+  <target name="t282____library_registry_pl"></target>
+  <target name="t112_pl_arith_c"></target>
+  <target name="t185_pl_feature_c"></target>
+  <target name="t19_all"></target>
+  <target name="t161_pl_rl_c"></target>
+  <target name="t243____library_am_match_pl"></target>
+  <target name="t232____boot_dwim_pl"></target>
+  <target name="t160_pl_rl_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t180_pl_thread_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t50_taia_fmtfrac_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t138_pl_list_c"></target>
+  <target name="t131_pl_gc_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t183_pl_xterm_c"></target>
+  <target name="t53_taia_frac_c"></target>
+  <target name="t106_pl_fli_c"></target>
+  <target name="t68_caldate_fmt_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t69_caldate_fmt_c"></target>
+  <target name="t233____boot_rc_pl"></target>
+  <target name="t7_dirs">
+    <command>@for d in $(builddirs); do \</command>
+    <command>if [ ! -d $$d ]; then mkdir $$d; fi; \</command>
+    <command>done</command>
+    <actual_command>@for d in ../lib ../lib/powerpc-darwin8.7.0; do \</actual_command>
+    <actual_command>if [ ! -d $$d ]; then mkdir $$d; fi; \</actual_command>
+    <actual_command>done</actual_command>
+  </target>
+  <target name="t3_lite">
+    <command>@cd $(BUILDARCH) &amp;&amp; $(MAKE) all</command>
+    <actual_command>@cd src &amp;&amp; make all</actual_command>
+  </target>
+  <target name="t89_caltime_fmt_c"></target>
+  <target name="t277____library_qpforeign_pl"></target>
+  <target name="t262____library_helpidx_pl"></target>
+  <target name="t36_tai_add_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t93_caltime_tai_c"></target>
+  <target name="t247____library_check_pl"></target>
+  <target name="t288____library_tty_pl"></target>
+  <target name="t251____library_date_pl"></target>
+  <target name="t261____library_help_pl"></target>
+  <target name="t240_index"></target>
+  <target name="t167_pl_table_c"></target>
+  <target name="t278____library_qsave_pl"></target>
+  <target name="t128_pl_fmt_c"></target>
+  <target name="t199_pl_main_c"></target>
+  <target name="t293____library_win_menu_pl"></target>
+  <target name="t99_pl_atom_c"></target>
+  <target name="t284____library_shlib_pl"></target>
+  <target name="t86_leapsecs_sub_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t72_caldate_fmjd_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t294____library_wise_pl"></target>
+  <target name="t285____library_statistics_pl"></target>
+  <target name="t206_rc_access_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t235____boot_autoload_pl"></target>
+  <target name="t178_pl_buffer_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t208_rc_build_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t168_pl_trace_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t46_taia_add_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t94_caltime_utc_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t98_pl_atom_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t210_rc_html_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t264____library_lists_pl"></target>
+  <target name="t4_Makefile"></target>
+  <target name="t9_parms_h">
+    <command>@echo "#define PLHOME       \"$(PLBASE)\""      &gt; $@%</command>
+    <command>@echo "#define DEFSTARTUP   \"$(DEFSTARTUP)\"" &gt;&gt; $@%</command>
+    <command>@echo $(PLVERSION) | \</command>
+    <command>$(AWK) -F. '{ printf("#define PLVERSION %d\n", $$1 * 10000 + $$2 * 100 + $$3); }' &gt;&gt; $@%</command>
+    <command>@echo "#define ARCH	    \"$(ARCH)\""       &gt;&gt; $@%</command>
+    <command>@echo "#define C_LIBS	    \"$(LNLIBS)\""     &gt;&gt; $@%</command>
+    <command>@echo "#define C_PLLIB	    \"$(USEPLLIB)\""   &gt;&gt; $@%</command>
+    <command>@echo "#define C_CC	    \"$(CC)\""	       &gt;&gt; $@%</command>
+    <command>@echo "#define C_CFLAGS	    \"$(CMFLAGS) $(CIFLAGS)\"" &gt;&gt; $@%</command>
+    <command>@echo "#define C_LDFLAGS    \"$(LDFLAGS)\""    &gt;&gt; $@%</command>
+    <command>@if cmp -s $@% $@; then rm $@%; else mv $@% $@; fi</command>
+    <actual_command>@echo "#define PLHOME \"/usr/local/lib/swipl-5.6.17\"" &gt; $@%</actual_command>
+    <actual_command>@echo "#define DEFSTARTUP \".plrc\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo 5.6.17 | \</actual_command>
+    <actual_command>awk -F. '{ printf("#define PLVERSION %d\n", $$1 * 10000 + $$2 * 100 + $$3); }' &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define ARCH \"powerpc-darwin8.7.0\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define C_LIBS \"-lpl\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define C_PLLIB \"-lpl\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define C_CC \"gcc\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define C_CFLAGS \"-no-cpp-precomp -fno-common \"" &gt;&gt; $@%</actual_command>
+    <actual_command>@echo "#define C_LDFLAGS \"-O3\"" &gt;&gt; $@%</actual_command>
+    <actual_command>@if cmp -s $@% $@; then rm $@%; else mv $@% $@; fi</actual_command>
+  </target>
+  <target name="t245____library_backcomp_pl"></target>
+  <target name="t196_pl_utf8_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t296_pl_sh"></target>
+  <target name="t32_tai_lib">
+    <command>@(cd libtai &amp;&amp; $(MAKE) COFLAGS="$(COFLAGS)")</command>
+    <actual_command>@(cd libtai &amp;&amp; make COFLAGS="$(COFLAGS)")</actual_command>
+  </target>
+  <target name="t225____boot_license_pl"></target>
+  <target name="t164_pl_sys_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t24_access_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t63_taia_sub_c"></target>
+  <target name="t169_pl_trace_c"></target>
+  <target name="t198_pl_main_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t115_pl_comp_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t59_taia_now_c"></target>
+  <target name="t151_pl_proc_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t140_pl_load_c"></target>
+  <target name="t16__Users_bram_Desktop_pl_5_6_17_src_pl_extend_c"></target>
+  <target name="t181_pl_thread_c"></target>
+  <target name="t222____boot_init_pl"></target>
+  <target name="t267____library_nb_set_pl"></target>
+  <target name="t6_banner">
+    <command>@echo "****************"</command>
+    <command>@echo "Making SWI-Prolog $(PLVERSION) for $(ARCH)"</command>
+    <command>@echo "To be installed in $(bindir)/$(PL)"</command>
+    <command>@echo "Home (libraries) in $(PLBASE)"</command>
+    <command>@echo "****************"</command>
+    <actual_command>@echo "****************"</actual_command>
+    <actual_command>@echo "Making SWI-Prolog 5.6.17 for powerpc-darwin8.7.0"</actual_command>
+    <actual_command>@echo "To be installed in /usr/local/bin/swipl"</actual_command>
+    <actual_command>@echo "Home (libraries) in /usr/local/lib/swipl-5.6.17"</actual_command>
+    <actual_command>@echo "****************"</actual_command>
+  </target>
+  <target name="t229____boot_writef_pl"></target>
+  <target name="t216____lib_powerpc_darwin8_7_0"></target>
+  <target name="t171_pl_util_c"></target>
+  <target name="t150_pl_pro_c"></target>
+  <target name="t110_pl_error_c"></target>
+  <target name="t166_pl_table_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t297_plld">
+    <command>$(CC) -I. -I$(srcdir) $(CFLAGS) -o $@ $(srcdir)/plld.c</command>
+    <actual_command>gcc -I. -I/Users/bram/Desktop/pl-5.6.17/src -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common -o $@ /Users/bram/Desktop/pl-5.6.17/src/plld.c</actual_command>
+  </target>
+  <target name="t153_pl_prof_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t17_rc_lib">
+    <command>@(cd rc &amp;&amp; $(MAKE) COFLAGS="$(COFLAGS)")</command>
+    <actual_command>@(cd rc &amp;&amp; make COFLAGS="$(COFLAGS)")</actual_command>
+  </target>
+  <target name="t202_pl_gmp_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t265____library_main_pl"></target>
+  <target name="t236____boot_qlf_pl"></target>
+  <target name="t193_pl_gvar_c"></target>
+  <target name="t1_Makefile"></target>
+  <target name="t43_tai_sub_c"></target>
+  <target name="t295____library_www_browser_pl"></target>
+  <target name="t118_pl_rc_c"></target>
+  <target name="t56_taia_less_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t116_pl_comp_c"></target>
+  <target name="t95_caltime_utc_c"></target>
+  <target name="t182_pl_xterm_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t97____lib_powerpc_darwin8_7_0_libpl_a">
+    <command>rm -f $@</command>
+    <command>$(AR) r $@ $(OBJ) $(LIBOBJ) $(XOBJ)</command>
+    <command>$(RANLIB) $@</command>
+    <actual_command>rm -f $@</actual_command>
+    <actual_command>ar r $@ pl-atom.o pl-wam.o pl-stream.o pl-error.o pl-arith.o pl-bag.o pl-comp.o pl-rc.o pl-dwim.o pl-ext.o pl-file.o pl-flag.o pl-fmt.o pl-funct.o pl-gc.o pl-glob.o pl-itf.o pl-list.o pl-load.o pl-modul.o pl-op.o pl-os.o pl-prims.o pl-pro.o pl-proc.o pl-prof.o pl-read.o pl-rec.o pl-rl.o pl-setup.o pl-sys.o pl-table.o pl-trace.o pl-util.o pl-wic.o pl-write.o pl-term.o pl-buffer.o pl-thread.o pl-xterm.o pl-feature.o pl-ctype.o pl-beos.o pl-attvar.o pl-gvar.o pl-btree.o pl-utf8.o pl-main.o pl-text.o pl-gmp.o pl-tai.o rc/access.o rc/build.o rc/html.o rc/util.o libtai/caltime_utc.o libtai/caltime_tai.o libtai/leapsecs_sub.o libtai/leapsecs_add.o libtai/caldate_fmjd.o libtai/caldate_mjd.o libtai/leapsecs_init.o libtai/leapsecs_read.o libtai/tai_pack.o libtai/tai_unpack.o </actual_command>
+    <actual_command>ranlib $@</actual_command>
+  </target>
+  <target name="t62_taia_sub_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t170_pl_util_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t147_pl_prims_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t190_pl_attvar_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t194_pl_btree_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t274____library_prolog_clause_pl"></target>
+  <target name="t224____boot_toplevel_pl"></target>
+  <target name="t92_caltime_tai_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t246____library_bim_pl"></target>
+  <target name="t64_taia_tai_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t289____library_ugraphs_pl"></target>
+  <target name="t281____library_readutil_pl"></target>
+  <target name="t58_taia_now_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t163_pl_setup_c"></target>
+  <target name="t250____library_ctypes_pl"></target>
+  <target name="t237____boot_topvars_pl"></target>
+  <target name="t74_caldate_mjd_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t290____library_url_pl"></target>
+  <target name="t227____boot_bags_pl"></target>
+  <target name="t234____boot_parms_pl"></target>
+  <target name="t157_pl_umap_c"></target>
+  <target name="t203_pl_gmp_c"></target>
+  <target name="t14__Users_bram_Desktop_pl_5_6_17_src_pl_stream_h"></target>
+  <target name="t28_util_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t135_pl_itf_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t51_taia_fmtfrac_c"></target>
+  <target name="t252____library_dde_pl"></target>
+  <target name="t34_all"></target>
+  <target name="t107_pl_stream_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t141_pl_modul_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t270____library_option_pl"></target>
+  <target name="t179_pl_buffer_c"></target>
+  <target name="t20_plrc">
+    <command>$(CC) $(LDFLAGS) -o $@ rc.o -L. -lrc</command>
+    <actual_command>gcc -O3 -o $@ rc.o -L. -lrc</actual_command>
+  </target>
+  <target name="t238____boot_messages_pl"></target>
+  <target name="t126_pl_flag_c"></target>
+  <target name="t256____library_edit_pl"></target>
+  <target name="t37_tai_add_c"></target>
+  <target name="t102_pl_wam_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t70_caldate_scan_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t172_pl_wic_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t217_system"></target>
+  <target name="t239____boot_load_pl"></target>
+  <target name="t31_rc_c"></target>
+  <target name="t71_caldate_scan_c"></target>
+  <target name="t215____lib_powerpc_darwin8_7_0_libpl_dylib">
+    <command>$(CC) -dynamiclib -current_version $(PLVERSION) \</command>
+    <command>-install_name $(LIBPL_INSTALL_NAME) \</command>
+    <command>$(COFLAGS) -o $@ \</command>
+    <command>$(OBJ) $(LIBOBJ) $(XOBJ) $(LDFLAGS) $(LIBS)</command>
+    <actual_command>gcc -dynamiclib -current_version 5.6.17 \</actual_command>
+    <actual_command>-install_name /usr/local/lib/swipl-5.6.17/lib/powerpc-darwin8.7.0/libpl.dylib \</actual_command>
+    <actual_command>-O3 -fno-strict-aliasing -o $@ \</actual_command>
+    <actual_command>pl-atom.o pl-wam.o pl-stream.o pl-error.o pl-arith.o pl-bag.o pl-comp.o pl-rc.o pl-dwim.o pl-ext.o pl-file.o pl-flag.o pl-fmt.o pl-funct.o pl-gc.o pl-glob.o pl-itf.o pl-list.o pl-load.o pl-modul.o pl-op.o pl-os.o pl-prims.o pl-pro.o pl-proc.o pl-prof.o pl-read.o pl-rec.o pl-rl.o pl-setup.o pl-sys.o pl-table.o pl-trace.o pl-util.o pl-wic.o pl-write.o pl-term.o pl-buffer.o pl-thread.o pl-xterm.o pl-feature.o pl-ctype.o pl-beos.o pl-attvar.o pl-gvar.o pl-btree.o pl-utf8.o pl-main.o pl-text.o pl-gmp.o pl-tai.o rc/access.o rc/build.o rc/html.o rc/util.o libtai/caltime_utc.o libtai/caltime_tai.o libtai/leapsecs_sub.o libtai/leapsecs_add.o libtai/caldate_fmjd.o libtai/caldate_mjd.o libtai/leapsecs_init.o libtai/leapsecs_read.o libtai/tai_pack.o libtai/tai_unpack.o  -O3 -ldl -lncurses -lm -lpthread</actual_command>
+  </target>
+  <target name="t286____library_system_pl"></target>
+  <target name="t54_taia_half_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t133_pl_glob_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t257____library_emacs_interface_pl"></target>
+  <target name="t78_caldate_ster_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t49_taia_approx_c"></target>
+  <target name="t113_pl_bag_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t218_swipl">
+    <command>$(LDEXE) $(LDFLAGS) -o $(PL) $(PLOBJ) -L../lib/$(ARCH) -lpl $(LNLIBS)</command>
+    <actual_command>gcc -O3 -o swipl pl-extend.o -L../lib/powerpc-darwin8.7.0 -lpl -lpl</actual_command>
+  </target>
+  <target name="t244____library_assoc_pl"></target>
+  <target name="t201_pl_text_c"></target>
+  <target name="t137_pl_list_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t148_pl_prims_c"></target>
+  <target name="t76_caldate_norm_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t10____include_SWI_Prolog_h">
+    <command>cp $(srcdir)/pl-itf.h $(CINCLUDE)</command>
+    <actual_command>cp /Users/bram/Desktop/pl-5.6.17/src/pl-itf.h ../include/SWI-Prolog.h</actual_command>
+  </target>
+  <target name="t165_pl_sys_c"></target>
+  <target name="t121_pl_ext_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t266____library_make_pl"></target>
+  <target name="t117_pl_rc_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t195_pl_btree_c"></target>
+  <target name="t73_caldate_fmjd_c"></target>
+  <target name="t268____library_occurs_pl"></target>
+  <target name="t263____library_listing_pl"></target>
+  <target name="t111_pl_arith_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t220_startup"></target>
+  <target name="t91_caltime_scan_c"></target>
+  <target name="t159_pl_rec_c"></target>
+  <target name="t125_pl_flag_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t146_pl_os_c"></target>
+  <target name="t104_pl_alloc_c"></target>
+  <target name="t42_tai_sub_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t205_pl_tai_c"></target>
+  <target name="t258____library_explain_pl"></target>
+  <target name="t228____boot_apply_pl"></target>
+  <target name="t114_pl_bag_c"></target>
+  <target name="t213_rc_util_c"></target>
+  <target name="t298__Users_bram_Desktop_pl_5_6_17_src_plld_c"></target>
+  <target name="t40_tai_pack_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t136_pl_itf_c"></target>
+  <target name="t176_pl_term_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t84_leapsecs_add_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t29_util_c"></target>
+  <target name="t174_pl_write_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t226____boot_sort_pl"></target>
+  <target name="t5_all"></target>
+  <target name="t11__Users_bram_Desktop_pl_5_6_17_src_pl_itf_h"></target>
+  <target name="t38_tai_now_o">
+    <command>$(CC) -c -I.. $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I.. -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t35_libtai_a">
+    <command>rm -f $@</command>
+    <command>$(AR) cq $@ $(LIBOBJ)</command>
+    <command>$(RANLIB) $@</command>
+    <actual_command>rm -f $@</actual_command>
+    <actual_command>ar cq $@ tai_add.o tai_now.o tai_pack.o tai_sub.o tai_unpack.o taia_add.o taia_approx.o taia_fmtfrac.o taia_frac.o taia_half.o taia_less.o taia_now.o taia_pack.o taia_sub.o taia_tai.o taia_unpack.o caldate_fmt.o caldate_scan.o caldate_fmjd.o caldate_mjd.o caldate_norm.o caldate_ster.o leapsecs_read.o leapsecs_init.o leapsecs_add.o leapsecs_sub.o caltime_fmt.o caltime_scan.o caltime_tai.o caltime_utc.o</actual_command>
+    <actual_command>ranlib $@</actual_command>
+  </target>
+  <target name="t272____library_oset_pl"></target>
+  <target name="t15____include_stub_c">
+    <command>$(SED) 's/"pl-itf.h"/&lt;SWI-Prolog.h&gt;/' $(srcdir)/pl-extend.c &gt; $@</command>
+    <actual_command>sed 's/"pl-itf.h"/&lt;SWI-Prolog.h&gt;/' /Users/bram/Desktop/pl-5.6.17/src/pl-extend.c &gt; $@</actual_command>
+  </target>
+  <target name="t44_tai_unpack_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t12____include">
+    <command>if [ ! -d $@ ]; then $(MKDIR) $@; fi</command>
+    <actual_command>if [ ! -d $@ ]; then mkdir -p $@; fi</actual_command>
+  </target>
+  <target name="t192_pl_gvar_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t122_pl_ext_c"></target>
+  <target name="t80_leapsecs_read_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t292____library_when_pl"></target>
+  <target name="t67_taia_unpack_c"></target>
+  <target name="t145_pl_os_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t175_pl_write_c"></target>
+  <target name="t187_pl_ctype_c"></target>
+  <target name="t241____library_INDEX_pl">
+    <command>$(DEVPL) -x $(STARTUPPATH) \</command>
+    <command>-f none -F none \</command>
+    <command>-g make_library_index\(\'../library\'\) \</command>
+    <command>-t halt</command>
+    <actual_command>./pl.sh -x swipl.prc \</actual_command>
+    <actual_command>-f none -F none \</actual_command>
+    <actual_command>-g make_library_index\(\'../library\'\) \</actual_command>
+    <actual_command>-t halt</actual_command>
+  </target>
+  <target name="t129_pl_funct_o">
+    <command>$(CC) -c -I. -I$(srcdir) -I$(srcdir)/rc $(CFLAGS) $&lt; -o $@</command>
+    <actual_command>gcc -c -I. -I/Users/bram/Desktop/pl-5.6.17/src -I/Users/bram/Desktop/pl-5.6.17/src/rc -Wall -O3 -fno-strict-aliasing  -no-cpp-precomp -fno-common $&lt; -o $@</actual_command>
+  </target>
+  <target name="t242____library"></target>
+  <target name="t103_pl_wam_c"></target>
+  <target name="t230____boot_history_pl"></target>
+  <target name="t124_pl_file_c"></target>
+  <target name="t23_html_c"></target>
+  <target name="t255____library_edinburgh_pl"></target>
+</build>

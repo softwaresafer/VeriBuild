@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t127_version_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t39_config_nls_m4"></target>
+  <target name="t5__deps_strcache_Po"></target>
+  <target name="t107_job_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t135_dep_h"></target>
+  <target name="t8__deps_remote_stub_Po"></target>
+  <target name="t6__deps_signame_Po"></target>
+  <target name="t124_strcache_c"></target>
+  <target name="t87_arscan_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t137_job_h"></target>
+  <target name="t72_Makefile">
+    <command>@case '$?' in \</command>
+    <command>*config.status*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh;; \</command>
+    <command>*) \</command>
+    <command>echo ' cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)'; \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe);; \</command>
+    <command>esac;</command>
+    <actual_command>@case '$?' in \</actual_command>
+    <actual_command>*config.status*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh ./config.status doc/$@ $(am__depfiles_maybe)'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status doc/$@ $(am__depfiles_maybe);; \</actual_command>
+    <actual_command>esac;</actual_command>
+  </target>
+  <target name="t25__deps_commands_Po"></target>
+  <target name="t23__deps_dir_Po"></target>
+  <target name="t40_config_po_m4"></target>
+  <target name="t103_getopt1_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t36_config_lib_ld_m4"></target>
+  <target name="t101_getopt_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="all">
+    <command>$(MAKE) $(AM_MAKEFLAGS) all-recursive</command>
+    <actual_command>make $(AM_MAKEFLAGS) all-recursive</actual_command>
+  </target>
+  <target name="t94_dir_c"></target>
+  <target name="t43_configure_in"></target>
+  <target name="t21__deps_file_Po"></target>
+  <target name="t66_POTFILES_in"></target>
+  <target name="t115_remake_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t84_make">
+    <command>@rm -f make$(EXEEXT)</command>
+    <command>$(LINK) $(make_LDFLAGS) $(make_OBJECTS) $(make_LDADD) $(LIBS)</command>
+    <actual_command>@rm -f make</actual_command>
+    <actual_command>gcc $(AM_CFLAGS) -g -O2 $(AM_LDFLAGS)  -o $@ $(make_LDFLAGS) ar$U.o arscan$U.o commands$U.o default$U.o dir$U.o expand$U.o file$U.o function$U.o getopt$U.o getopt1$U.o implicit$U.o job$U.o main$U.o misc$U.o read$U.o remake$U.o remote-stub$U.o rule$U.o signame$U.o strcache$U.o variable$U.o version$U.o vpath$U.o hash$U.o  $(am__append_1) -lrt</actual_command>
+  </target>
+  <target name="t53__deps_fnmatch_Po"></target>
+  <target name="t108_job_c"></target>
+  <target name="t141_debug_h"></target>
+  <target name="t46_configure">
+    <command>cd $(srcdir) &amp;&amp; $(AUTOCONF)</command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run autoconf</actual_command>
+  </target>
+  <target name="t65_Makefile_in_in"></target>
+  <target name="t51_all_recursive">
+    <command>@failcom='exit 1'; \</command>
+    <command>for f in x $$MAKEFLAGS; do \</command>
+    <command>case $$f in \</command>
+    <command>*=* | --[!k]*);; \</command>
+    <command>*k*) failcom='fail=yes';; \</command>
+    <command>esac; \</command>
+    <command>done; \</command>
+    <command>dot_seen=no; \</command>
+    <command>target=`echo $@ | sed s/-recursive//`; \</command>
+    <command>list='$(SUBDIRS)'; for subdir in $$list; do \</command>
+    <command>echo "Making $$target in $$subdir"; \</command>
+    <command>if test "$$subdir" = "."; then \</command>
+    <command>dot_seen=yes; \</command>
+    <command>local_target="$$target-am"; \</command>
+    <command>else \</command>
+    <command>local_target="$$target"; \</command>
+    <command>fi; \</command>
+    <command>(cd $$subdir &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) $$local_target) \</command>
+    <command>|| eval $$failcom; \</command>
+    <command>done; \</command>
+    <command>if test "$$dot_seen" = "no"; then \</command>
+    <command>$(MAKE) $(AM_MAKEFLAGS) "$$target-am" || exit 1; \</command>
+    <command>fi; test -z "$$fail"</command>
+    <actual_command>@failcom='exit 1'; \</actual_command>
+    <actual_command>for f in x $$MAKEFLAGS; do \</actual_command>
+    <actual_command>case $$f in \</actual_command>
+    <actual_command>*=* | --[!k]*);; \</actual_command>
+    <actual_command>*k*) failcom='fail=yes';; \</actual_command>
+    <actual_command>esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>dot_seen=no; \</actual_command>
+    <actual_command>target=`echo $@ | sed s/-recursive//`; \</actual_command>
+    <actual_command>list='glob config po doc $(MAYBE_W32)'; for subdir in $$list; do \</actual_command>
+    <actual_command>echo "Making $$target in $$subdir"; \</actual_command>
+    <actual_command>if test "$$subdir" = "."; then \</actual_command>
+    <actual_command>dot_seen=yes; \</actual_command>
+    <actual_command>local_target="$$target-am"; \</actual_command>
+    <actual_command>else \</actual_command>
+    <actual_command>local_target="$$target"; \</actual_command>
+    <actual_command>fi; \</actual_command>
+    <actual_command>(cd $. &amp;&amp; make $(AM_MAKEFLAGS) $$local_target) \</actual_command>
+    <actual_command>|| eval $$failcom; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>if test "$$dot_seen" = "no"; then \</actual_command>
+    <actual_command>make $(AM_MAKEFLAGS) "$$target-am" || exit 1; \</actual_command>
+    <actual_command>fi; test -z "$$fail"</actual_command>
+  </target>
+  <target name="t24__deps_default_Po"></target>
+  <target name="t125_variable_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t105_implicit_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t91_default_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t68_all"></target>
+  <target name="t4__deps_variable_Po"></target>
+  <target name="t139_rule_h"></target>
+  <target name="t64_Makefile">
+    <command>cd $(top_builddir) \</command>
+    <command>&amp;&amp; CONFIG_FILES=$(subdir)/$@.in CONFIG_HEADERS= \</command>
+    <command>$(SHELL) ./config.status</command>
+    <actual_command>cd .. \</actual_command>
+    <actual_command>&amp;&amp; CONFIG_FILES=po/$@.in CONFIG_HEADERS= \</actual_command>
+    <actual_command>/bin/sh ./config.status</actual_command>
+  </target>
+  <target name="t114_read_c"></target>
+  <target name="t52__deps_glob_Po"></target>
+  <target name="t98_file_c"></target>
+  <target name="t75_all"></target>
+  <target name="t134_commands_h"></target>
+  <target name="t96_expand_c"></target>
+  <target name="t50_config_h_in">
+    <command>cd $(top_srcdir) &amp;&amp; $(AUTOHEADER)</command>
+    <command>rm -f stamp-h1</command>
+    <command>touch $@</command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run autoheader</actual_command>
+    <actual_command>rm -f stamp-h1</actual_command>
+    <actual_command>touch $@</actual_command>
+  </target>
+  <target name="t33_config_dospaths_m4"></target>
+  <target name="t35_config_iconv_m4"></target>
+  <target name="t104_getopt1_c"></target>
+  <target name="t37_config_lib_link_m4"></target>
+  <target name="t82_make_stds_texi"></target>
+  <target name="t131_hash_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t76_all_am"></target>
+  <target name="t92_default_c"></target>
+  <target name="t71_make_pot">
+    <command>$(MAKE) $(DOMAIN).pot-update</command>
+    <actual_command>make make.pot-update</actual_command>
+  </target>
+  <target name="t79_version_texi"></target>
+  <target name="t100_function_c"></target>
+  <target name="t55_Makefile_in">
+    <command>@for dep in $?; do \</command>
+    <command>case '$(am__configure_deps)' in \</command>
+    <command>*$$dep*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh \</command>
+    <command>&amp;&amp; exit 0; \</command>
+    <command>exit 1;; \</command>
+    <command>esac; \</command>
+    <command>done; \</command>
+    <command>echo ' cd $(top_srcdir) &amp;&amp; $(AUTOMAKE) --foreign  glob/Makefile'; \</command>
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --foreign  glob/Makefile</command>
+    <actual_command>@for dep in $?; do \</actual_command>
+    <actual_command>case '../config/dospaths.m4 ../config/gettext.m4 ../config/iconv.m4 ../config/lib-ld.m4 ../config/lib-link.m4 ../config/lib-prefix.m4 ../config/nls.m4 ../config/po.m4 ../config/progtest.m4 ../acinclude.m4 ../configure.in $(CONFIGURE_DEPENDENCIES) ../aclocal.m4' in \</actual_command>
+    <actual_command>*$$dep*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh \</actual_command>
+    <actual_command>&amp;&amp; exit 0; \</actual_command>
+    <actual_command>exit 1;; \</actual_command>
+    <actual_command>esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --foreign glob/Makefile'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --foreign glob/Makefile</actual_command>
+  </target>
+  <target name="t130_vpath_c"></target>
+  <target name="t90_commands_c"></target>
+  <target name="t17__deps_hash_Po"></target>
+  <target name="t118_remote_stub_c"></target>
+  <target name="t41_config_progtest_m4"></target>
+  <target name="t85_ar_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t34_config_gettext_m4"></target>
+  <target name="t9__deps_remote_cstms_Po"></target>
+  <target name="t20__deps_function_Po"></target>
+  <target name="t122_signame_c"></target>
+  <target name="t121_signame_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t132_hash_c"></target>
+  <target name="t136_filedef_h"></target>
+  <target name="t61_Makefile_am"></target>
+  <target name="t93_dir_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t78_make_texi"></target>
+  <target name="t54_Makefile">
+    <command>@case '$?' in \</command>
+    <command>*config.status*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh;; \</command>
+    <command>*) \</command>
+    <command>echo ' cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)'; \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe);; \</command>
+    <command>esac;</command>
+    <actual_command>@case '$?' in \</actual_command>
+    <actual_command>*config.status*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh ./config.status glob/$@ depfiles'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status glob/$@ depfiles;; \</actual_command>
+    <actual_command>esac;</actual_command>
+  </target>
+  <target name="t60_Makefile_in">
+    <command>@for dep in $?; do \</command>
+    <command>case '$(am__configure_deps)' in \</command>
+    <command>*$$dep*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh \</command>
+    <command>&amp;&amp; exit 0; \</command>
+    <command>exit 1;; \</command>
+    <command>esac; \</command>
+    <command>done; \</command>
+    <command>echo ' cd $(top_srcdir) &amp;&amp; $(AUTOMAKE) --gnu  config/Makefile'; \</command>
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  config/Makefile</command>
+    <actual_command>@for dep in $?; do \</actual_command>
+    <actual_command>case '../config/dospaths.m4 ../config/gettext.m4 ../config/iconv.m4 ../config/lib-ld.m4 ../config/lib-link.m4 ../config/lib-prefix.m4 ../config/nls.m4 ../config/po.m4 ../config/progtest.m4 ../acinclude.m4 ../configure.in $(CONFIGURE_DEPENDENCIES) ../aclocal.m4' in \</actual_command>
+    <actual_command>*$$dep*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh \</actual_command>
+    <actual_command>&amp;&amp; exit 0; \</actual_command>
+    <actual_command>exit 1;; \</actual_command>
+    <actual_command>esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu config/Makefile'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu config/Makefile</actual_command>
+  </target>
+  <target name="t18__deps_getopt1_Po"></target>
+  <target name="t138_make_h"></target>
+  <target name="t70_stamp_po">
+    <command>test -z "$(GMOFILES)" || $(MAKE) $(GMOFILES)</command>
+    <command>@echo "touch stamp-po"</command>
+    <command>@echo timestamp &gt; stamp-poT</command>
+    <command>@mv stamp-poT stamp-po</command>
+    <actual_command>test -z "be.gmo da.gmo de.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo he.gmo hr.gmo id.gmo ja.gmo ko.gmo nl.gmo pl.gmo pt_BR.gmo ru.gmo rw.gmo sv.gmo tr.gmo uk.gmo vi.gmo zh_CN.gmo" || make be.gmo da.gmo de.gmo es.gmo fi.gmo fr.gmo ga.gmo gl.gmo he.gmo hr.gmo id.gmo ja.gmo ko.gmo nl.gmo pl.gmo pt_BR.gmo ru.gmo rw.gmo sv.gmo tr.gmo uk.gmo vi.gmo zh_CN.gmo</actual_command>
+    <actual_command>@echo "touch stamp-po"</actual_command>
+    <actual_command>@echo timestamp &gt; stamp-poT</actual_command>
+    <actual_command>@mv stamp-poT stamp-po</actual_command>
+  </target>
+  <target name="t73_Makefile_in">
+    <command>@for dep in $?; do \</command>
+    <command>case '$(am__configure_deps)' in \</command>
+    <command>*$$dep*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh \</command>
+    <command>&amp;&amp; exit 0; \</command>
+    <command>exit 1;; \</command>
+    <command>esac; \</command>
+    <command>done; \</command>
+    <command>echo ' cd $(top_srcdir) &amp;&amp; $(AUTOMAKE) --gnu  doc/Makefile'; \</command>
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  doc/Makefile</command>
+    <actual_command>@for dep in $?; do \</actual_command>
+    <actual_command>case '../config/dospaths.m4 ../config/gettext.m4 ../config/iconv.m4 ../config/lib-ld.m4 ../config/lib-link.m4 ../config/lib-prefix.m4 ../config/nls.m4 ../config/po.m4 ../config/progtest.m4 ../acinclude.m4 ../configure.in $(CONFIGURE_DEPENDENCIES) ../aclocal.m4' in \</actual_command>
+    <actual_command>*$$dep*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh \</actual_command>
+    <actual_command>&amp;&amp; exit 0; \</actual_command>
+    <actual_command>exit 1;; \</actual_command>
+    <actual_command>esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu doc/Makefile'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu doc/Makefile</actual_command>
+  </target>
+  <target name="t80_stamp_vti">
+    <command>@(dir=.; test -f ./make.texi || dir=$(srcdir); \</command>
+    <command>set `$(SHELL) $(top_srcdir)/config/mdate-sh $$dir/make.texi`; \</command>
+    <command>echo "@set UPDATED $$1 $$2 $$3"; \</command>
+    <command>echo "@set UPDATED-MONTH $$2 $$3"; \</command>
+    <command>echo "@set EDITION $(VERSION)"; \</command>
+    <command>echo "@set VERSION $(VERSION)") &gt; vti.tmp</command>
+    <command>@cmp -s vti.tmp $(srcdir)/version.texi \</command>
+    <command>|| (echo "Updating $(srcdir)/version.texi"; \</command>
+    <command>cp vti.tmp $(srcdir)/version.texi)</command>
+    <command>-@rm -f vti.tmp</command>
+    <command>@cp $(srcdir)/version.texi $@</command>
+    <actual_command>@(dir=.; test -f ./make.texi || dir=.; \</actual_command>
+    <actual_command>set `/bin/sh ../config/mdate-sh $$dir/make.texi`; \</actual_command>
+    <actual_command>echo "@set UPDATED $$1 $$2 $$3"; \</actual_command>
+    <actual_command>echo "@set UPDATED-MONTH $$2 $$3"; \</actual_command>
+    <actual_command>echo "@set EDITION 3.81"; \</actual_command>
+    <actual_command>echo "@set VERSION $(VERSION)") &gt; vti.tmp</actual_command>
+    <actual_command>@cmp -s vti.tmp ./version.texi \</actual_command>
+    <actual_command>|| (echo "Updating ./version.texi"; \</actual_command>
+    <actual_command>cp vti.tmp $(srcdir)/version.texi)</actual_command>
+    <actual_command>-@rm -f vti.tmp</actual_command>
+    <actual_command>@cp ./version.texi $@</actual_command>
+  </target>
+  <target name="t7__deps_rule_Po"></target>
+  <target name="t27__deps_ar_Po"></target>
+  <target name="t116_remake_c"></target>
+  <target name="t26__deps_arscan_Po"></target>
+  <target name="t48_config_h">
+    <command>@if test ! -f $@; then \</command>
+    <command>rm -f stamp-h1; \</command>
+    <command>$(MAKE) stamp-h1; \</command>
+    <command>else :; fi</command>
+    <actual_command>@if test ! -f $@; then \</actual_command>
+    <actual_command>rm -f stamp-h1; \</actual_command>
+    <actual_command>make stamp-h1; \</actual_command>
+    <actual_command>else :; fi</actual_command>
+  </target>
+  <target name="t113_read_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t16__deps_implicit_Po"></target>
+  <target name="t117_remote_stub_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t81_fdl_texi"></target>
+  <target name="t2__deps_vmsjobs_Po"></target>
+  <target name="t74_Makefile_am"></target>
+  <target name="t119_rule_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t110_main_c"></target>
+  <target name="t111_misc_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t140_variable_h"></target>
+  <target name="t15__deps_job_Po"></target>
+  <target name="t38_config_lib_prefix_m4"></target>
+  <target name="t12__deps_misc_Po"></target>
+  <target name="t128_version_c"></target>
+  <target name="t77_make_info">
+    <command>restore=: &amp;&amp; backupdir="$(am__leading_dot)am$$$$" &amp;&amp; \</command>
+    <command>am__cwd=`pwd` &amp;&amp; cd $(srcdir) &amp;&amp; \</command>
+    <command>rm -rf $$backupdir &amp;&amp; mkdir $$backupdir &amp;&amp; \</command>
+    <command>if ($(MAKEINFO) --version) &gt;/dev/null 2&gt;&amp;1; then \</command>
+    <command>for f in $@ $@-[0-9] $@-[0-9][0-9] $(@:.info=).i[0-9] $(@:.info=).i[0-9][0-9]; do \</command>
+    <command>if test -f $$f; then mv $$f $$backupdir; restore=mv; else :; fi; \</command>
+    <command>done; \</command>
+    <command>else :; fi &amp;&amp; \</command>
+    <command>cd "$$am__cwd"; \</command>
+    <command>if $(MAKEINFO) $(AM_MAKEINFOFLAGS) $(MAKEINFOFLAGS) -I $(srcdir) \</command>
+    <command>-o $@ $&lt;; \</command>
+    <command>then \</command>
+    <command>rc=0; \</command>
+    <command>cd $(srcdir); \</command>
+    <command>else \</command>
+    <command>rc=$$?; \</command>
+    <command>cd $(srcdir) &amp;&amp; \</command>
+    <command>$$restore $$backupdir/* `echo "./$@" | sed 's|[^/]*$$||'`; \</command>
+    <command>fi; \</command>
+    <command>rm -rf $$backupdir; exit $$rc</command>
+    <actual_command>restore=: &amp;&amp; backupdir=".am$$$$" &amp;&amp; \</actual_command>
+    <actual_command>am__cwd=`pwd` &amp;&amp; cd . &amp;&amp; \</actual_command>
+    <actual_command>rm -rf $$backupdir &amp;&amp; mkdir $$backupdir &amp;&amp; \</actual_command>
+    <actual_command>if (/bin/sh /home/bram/tools/misc/make-3.81/config/missing --run makeinfo --version) &gt;/dev/null 2&gt;&amp;1; then \</actual_command>
+    <actual_command>for f in $@ $@-[0-9] $@-[0-9][0-9] $(@:.info=).i[0-9] $(@:.info=).i[0-9][0-9]; do \</actual_command>
+    <actual_command>if test -f $$f; then mv $$f $$backupdir; restore=mv; else :; fi; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>else :; fi &amp;&amp; \</actual_command>
+    <actual_command>cd "$$am__cwd"; \</actual_command>
+    <actual_command>if /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run makeinfo $(AM_MAKEINFOFLAGS) $(MAKEINFOFLAGS) -I . \</actual_command>
+    <actual_command>-o $@ $&lt;; \</actual_command>
+    <actual_command>then \</actual_command>
+    <actual_command>rc=0; \</actual_command>
+    <actual_command>cd .; \</actual_command>
+    <actual_command>else \</actual_command>
+    <actual_command>rc=$$?; \</actual_command>
+    <actual_command>cd . &amp;&amp; \</actual_command>
+    <actual_command>$$restore $$backupdir/* `echo "./$@" | sed 's|[^/]*$$||'`; \</actual_command>
+    <actual_command>fi; \</actual_command>
+    <actual_command>rm -rf $$backupdir; exit $$rc</actual_command>
+  </target>
+  <target name="t29__deps_alloca_Po"></target>
+  <target name="t45_config_status">
+    <command>$(SHELL) ./config.status --recheck</command>
+    <actual_command>/bin/sh ./config.status --recheck</actual_command>
+  </target>
+  <target name="t69_all_yes"></target>
+  <target name="t109_main_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t102_getopt_c"></target>
+  <target name="t112_misc_c"></target>
+  <target name="t11__deps_read_Po"></target>
+  <target name="t32_Makefile_am"></target>
+  <target name="t89_commands_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t129_vpath_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t97_file_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t58_all_am"></target>
+  <target name="t44_aclocal_m4">
+    <command>cd $(srcdir) &amp;&amp; $(ACLOCAL) $(ACLOCAL_AMFLAGS)</command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run aclocal-1.9 -I config</actual_command>
+  </target>
+  <target name="t22__deps_expand_Po"></target>
+  <target name="t120_rule_c"></target>
+  <target name="t49_stamp_h1">
+    <command>@rm -f stamp-h1</command>
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status config.h</command>
+    <actual_command>@rm -f stamp-h1</actual_command>
+    <actual_command>cd . &amp;&amp; /bin/sh ./config.status config.h</actual_command>
+  </target>
+  <target name="t30_Makefile">
+    <command>@case '$?' in \</command>
+    <command>*config.status*) \</command>
+    <command>echo ' $(SHELL) ./config.status'; \</command>
+    <command>$(SHELL) ./config.status;; \</command>
+    <command>*) \</command>
+    <command>echo ' cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $@ $(am__depfiles_maybe)'; \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $@ $(am__depfiles_maybe);; \</command>
+    <command>esac;</command>
+    <actual_command>@case '$?' in \</actual_command>
+    <actual_command>*config.status*) \</actual_command>
+    <actual_command>echo ' /bin/sh ./config.status'; \</actual_command>
+    <actual_command>/bin/sh ./config.status;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>echo ' cd . &amp;&amp; /bin/sh ./config.status $@ depfiles'; \</actual_command>
+    <actual_command>cd . &amp;&amp; /bin/sh ./config.status $@ depfiles;; \</actual_command>
+    <actual_command>esac;</actual_command>
+  </target>
+  <target name="t1__deps_vpath_Po"></target>
+  <target name="t59_Makefile">
+    <command>@case '$?' in \</command>
+    <command>*config.status*) \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) am--refresh;; \</command>
+    <command>*) \</command>
+    <command>echo ' cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)'; \</command>
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe);; \</command>
+    <command>esac;</command>
+    <actual_command>@case '$?' in \</actual_command>
+    <actual_command>*config.status*) \</actual_command>
+    <actual_command>cd .. &amp;&amp; make $(AM_MAKEFLAGS) am--refresh;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>echo ' cd .. &amp;&amp; /bin/sh ./config.status config/$@ $(am__depfiles_maybe)'; \</actual_command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status config/$@ $(am__depfiles_maybe);; \</actual_command>
+    <actual_command>esac;</actual_command>
+  </target>
+  <target name="t10__deps_remake_Po"></target>
+  <target name="t144_hash_h"></target>
+  <target name="t88_arscan_c"></target>
+  <target name="t95_expand_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t67_LINGUAS"></target>
+  <target name="t106_implicit_c"></target>
+  <target name="t142_getopt_h"></target>
+  <target name="t56_Makefile_am"></target>
+  <target name="t31_Makefile_in">
+    <command>@for dep in $?; do \</command>
+    <command>case '$(am__configure_deps)' in \</command>
+    <command>*$$dep*) \</command>
+    <command>echo ' cd $(srcdir) &amp;&amp; $(AUTOMAKE) --gnu '; \</command>
+    <command>cd $(srcdir) &amp;&amp; $(AUTOMAKE) --gnu  \</command>
+    <command>&amp;&amp; exit 0; \</command>
+    <command>exit 1;; \</command>
+    <command>esac; \</command>
+    <command>done; \</command>
+    <command>echo ' cd $(top_srcdir) &amp;&amp; $(AUTOMAKE) --gnu  Makefile'; \</command>
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  Makefile</command>
+    <actual_command>@for dep in $?; do \</actual_command>
+    <actual_command>case './config/dospaths.m4 ./config/gettext.m4 ./config/iconv.m4 ./config/lib-ld.m4 ./config/lib-link.m4 ./config/lib-prefix.m4 ./config/nls.m4 ./config/po.m4 ./config/progtest.m4 ./acinclude.m4 ./configure.in $(CONFIGURE_DEPENDENCIES) ./aclocal.m4' in \</actual_command>
+    <actual_command>*$$dep*) \</actual_command>
+    <actual_command>echo ' cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu '; \</actual_command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu \</actual_command>
+    <actual_command>&amp;&amp; exit 0; \</actual_command>
+    <actual_command>exit 1;; \</actual_command>
+    <actual_command>esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>echo ' cd . &amp;&amp; /bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu Makefile'; \</actual_command>
+    <actual_command>cd . &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/misc/make-3.81/config/missing --run automake-1.9 --gnu Makefile</actual_command>
+  </target>
+  <target name="t63_all_am"></target>
+  <target name="t42_acinclude_m4"></target>
+  <target name="t3__deps_version_Po"></target>
+  <target name="t13__deps_main_Po"></target>
+  <target name="t143_gettext_h"></target>
+  <target name="t86_ar_c"></target>
+  <target name="t99_function_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t57_all"></target>
+  <target name="t123_strcache_o">
+    <command>if $(COMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" -c -o $@ $&lt;; \</command>
+    <command>then mv -f "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; fi</command>
+    <actual_command>if gcc -DLOCALEDIR=\"/usr/local/share/locale\" -DLIBDIR=\"/usr/local/lib\" -DINCLUDEDIR=\"/usr/local/include\" -DHAVE_CONFIG_H -I. -I. -I. $(INCLUDES)  $(am__append_2)  $(AM_CFLAGS) -g -O2 -MT $@ -MD -MP -MF ".deps/$*.Tpo" -c -o $@ $&lt;; \</actual_command>
+    <actual_command>then mv -f ".deps/$*.Tpo" ".deps/$*.Po"; else rm -f ".deps/$*.Tpo"; exit 1; fi</actual_command>
+  </target>
+  <target name="t62_all"></target>
+  <target name="t19__deps_getopt_Po"></target>
+  <target name="t14__deps_loadavg_getloadavg_Po"></target>
+  <target name="t126_variable_c"></target>
+  <target name="t133_make_1"></target>
+  <target name="t28__deps_getloadavg_Po"></target>
+  <target name="t83_all_am"></target>
+</build>

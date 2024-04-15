@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t152__usr_include_cPLUSPLUS_3_3_6_bits_streambuf_iterator_h"></target>
+  <target name="t147__usr_include_cPLUSPLUS_3_3_6_bits_ios_base_h"></target>
+  <target name="t119__usr_include_cPLUSPLUS_3_3_6_bits_stl_threads_h"></target>
+  <target name="t62__usr_include_bits_typesizes_h"></target>
+  <target name="t217_utils_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t116__usr_include_cPLUSPLUS_3_3_6_bits_concept_check_h"></target>
+  <target name="t109__usr_include_getopt_h"></target>
+  <target name="t68__usr_include_sys_sysmacros_h"></target>
+  <target name="t166__usr_include_cPLUSPLUS_3_3_6_cerrno"></target>
+  <target name="t76__usr_include_cPLUSPLUS_3_3_6_clocale"></target>
+  <target name="t202_source_cpp"></target>
+  <target name="t199__usr_include_cPLUSPLUS_3_3_6_cassert"></target>
+  <target name="t190_cpptest_compileroutput_h"></target>
+  <target name="t117__usr_include_cPLUSPLUS_3_3_6_bits_stl_iterator_h"></target>
+  <target name="t230_Makefile">
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)</command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status doc/$@ $(am__depfiles_maybe)</actual_command>
+  </target>
+  <target name="t214_time_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t90__usr_include_libio_h"></target>
+  <target name="t228_mytest_o">
+    <command>if $(CXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Po"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Po"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t64__usr_include_sys_select_h"></target>
+  <target name="t210_cpptest_suite_h"></target>
+  <target name="t100__usr_include_pthread_h"></target>
+  <target name="t143__usr_include_cPLUSPLUS_3_3_6_iostream"></target>
+  <target name="t136__usr_include_cPLUSPLUS_3_3_6_vector"></target>
+  <target name="t195_utils_h"></target>
+  <target name="t197_missing_cpp"></target>
+  <target name="t162__usr_include_cPLUSPLUS_3_3_6_bits_basic_ios_tcc"></target>
+  <target name="t122__usr_include_cPLUSPLUS_3_3_6_bits_stl_uninitialized_h"></target>
+  <target name="t237_all_am"></target>
+  <target name="t225_all"></target>
+  <target name="t102__usr_include_signal_h"></target>
+  <target name="t79__usr_include_langinfo_h"></target>
+  <target name="t164__usr_include_cPLUSPLUS_3_3_6_locale"></target>
+  <target name="t17__deps_compileroutput_Plo"></target>
+  <target name="t91__usr_include__G_config_h"></target>
+  <target name="t234_all_am"></target>
+  <target name="t188__usr_include_cPLUSPLUS_3_3_6_sstream"></target>
+  <target name="all"></target>
+  <target name="t172__usr_include_math_h"></target>
+  <target name="t97__usr_include_bits_stdio_h"></target>
+  <target name="t43__usr_include_cPLUSPLUS_3_3_6_climits"></target>
+  <target name="t23_all_am"></target>
+  <target name="t80__usr_include_nl_types_h"></target>
+  <target name="t47__usr_include_bits_posix1_lim_h"></target>
+  <target name="t67__usr_include_bits_time_h"></target>
+  <target name="t51__usr_include_bits_xopen_lim_h"></target>
+  <target name="t13__deps_suite_Plo"></target>
+  <target name="t50__usr_include_bits_posix2_lim_h"></target>
+  <target name="t206__usr_include_cPLUSPLUS_3_3_6_numeric"></target>
+  <target name="t1_Makefile">
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $@ $(am__depfiles_maybe)</command>
+    <actual_command>cd . &amp;&amp; /bin/sh ./config.status $@ $(am__depfiles_maybe)</actual_command>
+  </target>
+  <target name="t75__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_cPLUSPLUSlocale_h"></target>
+  <target name="t88__usr_include_cPLUSPLUS_3_3_6_cstdio"></target>
+  <target name="t223_Makefile_in">
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  test/Makefile</command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run automake-1.7 --gnu test/Makefile</actual_command>
+  </target>
+  <target name="t215_time_cpp"></target>
+  <target name="t103__usr_include_bits_initspin_h"></target>
+  <target name="t187_compileroutput_cpp"></target>
+  <target name="t161__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_messages_members_h"></target>
+  <target name="t26_collectoroutput_cpp"></target>
+  <target name="t127__usr_include_cPLUSPLUS_3_3_6_memory"></target>
+  <target name="t71__usr_include_alloca_h"></target>
+  <target name="t160__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_time_members_h"></target>
+  <target name="t98__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_gthr_h"></target>
+  <target name="t121__usr_include_cPLUSPLUS_3_3_6_bits_stl_construct_h"></target>
+  <target name="t18__deps_collectoroutput_Plo"></target>
+  <target name="t34__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_os_defines_h"></target>
+  <target name="t133__usr_include_cPLUSPLUS_3_3_6_bits_stl_heap_h"></target>
+  <target name="t205__usr_include_cPLUSPLUS_3_3_6_functional"></target>
+  <target name="t124__usr_include_cPLUSPLUS_3_3_6_bits_list_tcc"></target>
+  <target name="t33__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_cPLUSPLUSconfig_h"></target>
+  <target name="t108__usr_include_bits_confname_h"></target>
+  <target name="t142_cpptest_time_h"></target>
+  <target name="t82__usr_include_libintl_h"></target>
+  <target name="t15__deps_missing_Plo"></target>
+  <target name="t16__deps_htmloutput_Plo"></target>
+  <target name="t148__usr_include_cPLUSPLUS_3_3_6_bits_locale_classes_h"></target>
+  <target name="t69__usr_include_bits_pthreadtypes_h"></target>
+  <target name="t140_cpptest_output_h"></target>
+  <target name="t138__usr_include_cPLUSPLUS_3_3_6_bits_stl_bvector_h"></target>
+  <target name="t189__usr_include_cPLUSPLUS_3_3_6_bits_sstream_tcc"></target>
+  <target name="t118__usr_include_cPLUSPLUS_3_3_6_bits_stl_alloc_h"></target>
+  <target name="t73__usr_include_cPLUSPLUS_3_3_6_exception"></target>
+  <target name="t114__usr_include_cPLUSPLUS_3_3_6_bits_stl_iterator_base_types_h"></target>
+  <target name="t229_mytest_cpp"></target>
+  <target name="t178__usr_include_bits_mathdef_h"></target>
+  <target name="t30__usr_include_cPLUSPLUS_3_3_6_bits_functexcept_h"></target>
+  <target name="t57__usr_include_endian_h"></target>
+  <target name="t175__usr_include_bits_huge_vall_h"></target>
+  <target name="t130__usr_include_cPLUSPLUS_3_3_6_bits_basic_string_h"></target>
+  <target name="t66__usr_include_bits_sigset_h"></target>
+  <target name="t81__usr_include_iconv_h"></target>
+  <target name="t184__usr_include_cPLUSPLUS_3_3_6_istream"></target>
+  <target name="t159__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_codecvt_specializations_h"></target>
+  <target name="t128__usr_include_cPLUSPLUS_3_3_6_bits_stl_raw_storage_iter_h"></target>
+  <target name="t163__usr_include_cPLUSPLUS_3_3_6_bits_ostream_tcc"></target>
+  <target name="t28_cpptest_collectoroutput_h"></target>
+  <target name="t85__usr_include_cPLUSPLUS_3_3_6_bits_stringfwd_h"></target>
+  <target name="t120__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_atomicity_h"></target>
+  <target name="t104__usr_include_bits_sigthread_h"></target>
+  <target name="t42__usr_include_xlocale_h"></target>
+  <target name="t125__usr_include_cPLUSPLUS_3_3_6_string"></target>
+  <target name="t87__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_cPLUSPLUSio_h"></target>
+  <target name="t198_missing_h"></target>
+  <target name="t29__usr_include_cPLUSPLUS_3_3_6_list"></target>
+  <target name="t171__usr_include_cPLUSPLUS_3_3_6_cmath"></target>
+  <target name="t92__usr_include_wchar_h"></target>
+  <target name="t185__usr_include_cPLUSPLUS_3_3_6_bits_istream_tcc"></target>
+  <target name="t169__usr_include_linux_errno_h"></target>
+  <target name="t207__usr_include_cPLUSPLUS_3_3_6_iterator"></target>
+  <target name="t218_utils_cpp"></target>
+  <target name="t5_aclocal_m4">
+    <command>cd $(srcdir) &amp;&amp; $(ACLOCAL) $(ACLOCAL_AMFLAGS)</command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run aclocal-1.7 $(ACLOCAL_AMFLAGS)</actual_command>
+  </target>
+  <target name="t2_Makefile_in">
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  Makefile</command>
+    <actual_command>cd . &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run automake-1.7 --gnu Makefile</actual_command>
+  </target>
+  <target name="t65__usr_include_bits_select_h"></target>
+  <target name="t216__usr_include_sys_time_h"></target>
+  <target name="t231_Makefile_in">
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  doc/Makefile</command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run automake-1.7 --gnu doc/Makefile</actual_command>
+  </target>
+  <target name="t78__usr_include_bits_locale_h"></target>
+  <target name="t232_Makefile_am"></target>
+  <target name="t208__usr_include_cPLUSPLUS_3_3_6_bits_stream_iterator_h"></target>
+  <target name="t211_textoutput_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t105__usr_include_unistd_h"></target>
+  <target name="t70__usr_include_bits_sched_h"></target>
+  <target name="t203_suite_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t38__usr_include_cPLUSPLUS_3_3_6_cstring"></target>
+  <target name="t40__usr_lib_gcc_lib_i486_slackware_linux_3_3_6_include_stddef_h"></target>
+  <target name="t209__usr_include_cPLUSPLUS_3_3_6_bits_stl_numeric_h"></target>
+  <target name="t135__usr_include_cPLUSPLUS_3_3_6_bits_basic_string_tcc"></target>
+  <target name="t153__usr_include_cPLUSPLUS_3_3_6_bits_locale_facets_h"></target>
+  <target name="t115__usr_include_cPLUSPLUS_3_3_6_bits_stl_iterator_base_funcs_h"></target>
+  <target name="t170__usr_include_asm_errno_h"></target>
+  <target name="t144__usr_include_cPLUSPLUS_3_3_6_ostream"></target>
+  <target name="t72__usr_include_cPLUSPLUS_3_3_6_new"></target>
+  <target name="t19_Makefile">
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)</command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status src/$@ depfiles</actual_command>
+  </target>
+  <target name="t180__usr_include_bits_mathinline_h"></target>
+  <target name="t112__usr_include_cPLUSPLUS_3_3_6_bits_stl_pair_h"></target>
+  <target name="t131__usr_include_cPLUSPLUS_3_3_6_algorithm"></target>
+  <target name="t224_Makefile_am"></target>
+  <target name="t141_cpptest_source_h"></target>
+  <target name="t9_all_recursive">
+    <command>@set fnord $$MAKEFLAGS; amf=$$2; \</command>
+    <command>dot_seen=no; \</command>
+    <command>target=`echo $@ | sed s/-recursive//`; \</command>
+    <command>list='$(SUBDIRS)'; for subdir in $$list; do \</command>
+    <command>echo "Making $$target in $$subdir"; \</command>
+    <command>if test "$$subdir" = "."; then \</command>
+    <command>dot_seen=yes; \</command>
+    <command>local_target="$$target-am"; \</command>
+    <command>else \</command>
+    <command>local_target="$$target"; \</command>
+    <command>fi; \</command>
+    <command>(cd $$subdir &amp;&amp; $(MAKE) $(AM_MAKEFLAGS) $$local_target) \</command>
+    <command>|| case "$$amf" in *=*) exit 1;; *k*) fail=yes;; *) exit 1;; esac; \</command>
+    <command>done; \</command>
+    <command>if test "$$dot_seen" = "no"; then \</command>
+    <command>$(MAKE) $(AM_MAKEFLAGS) "$$target-am" || exit 1; \</command>
+    <command>fi; test -z "$$fail"</command>
+    <actual_command>@set fnord $$MAKEFLAGS; amf=$$2; \</actual_command>
+    <actual_command>dot_seen=no; \</actual_command>
+    <actual_command>target=`echo $@ | sed s/-recursive//`; \</actual_command>
+    <actual_command>list='src test doc'; for subdir in $$list; do \</actual_command>
+    <actual_command>echo "Making $$target in $$subdir"; \</actual_command>
+    <actual_command>if test "$$subdir" = "."; then \</actual_command>
+    <actual_command>dot_seen=yes; \</actual_command>
+    <actual_command>local_target="$$target-am"; \</actual_command>
+    <actual_command>else \</actual_command>
+    <actual_command>local_target="$$target"; \</actual_command>
+    <actual_command>fi; \</actual_command>
+    <actual_command>(cd $. &amp;&amp; make $(AM_MAKEFLAGS) $$local_target) \</actual_command>
+    <actual_command>|| case "$$amf" in *=*) exit 1;; *k*) fail=yes;; *) exit 1;; esac; \</actual_command>
+    <actual_command>done; \</actual_command>
+    <actual_command>if test "$$dot_seen" = "no"; then \</actual_command>
+    <actual_command>make $(AM_MAKEFLAGS) "$$target-am" || exit 1; \</actual_command>
+    <actual_command>fi; test -z "$$fail"</actual_command>
+  </target>
+  <target name="t53__usr_include_cPLUSPLUS_3_3_6_cstdlib"></target>
+  <target name="t94__usr_include_gconv_h"></target>
+  <target name="t36__usr_include_sys_cdefs_h"></target>
+  <target name="t150__usr_include_cPLUSPLUS_3_3_6_bits_streambuf_tcc"></target>
+  <target name="t165__usr_include_cPLUSPLUS_3_3_6_bits_locale_facets_tcc"></target>
+  <target name="t7_configure">
+    <command>cd $(srcdir) &amp;&amp; $(AUTOCONF)</command>
+    <actual_command>cd . &amp;&amp; /bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run autoconf</actual_command>
+  </target>
+  <target name="t84__usr_include_ctype_h"></target>
+  <target name="t194_cpptest_htmloutput_h"></target>
+  <target name="t86__usr_include_cPLUSPLUS_3_3_6_bits_fpos_h"></target>
+  <target name="t99__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_gthr_default_h"></target>
+  <target name="t93__usr_include_bits_wchar_h"></target>
+  <target name="t4_configure_ac"></target>
+  <target name="t167__usr_include_errno_h"></target>
+  <target name="t45__usr_lib_gcc_lib_i486_slackware_linux_3_3_6_include_syslimits_h"></target>
+  <target name="t213_cpptest_textoutput_h"></target>
+  <target name="t220_cpptest_h"></target>
+  <target name="t176__usr_include_bits_inf_h"></target>
+  <target name="t95__usr_lib_gcc_lib_i486_slackware_linux_3_3_6_include_stdarg_h"></target>
+  <target name="t173__usr_include_bits_huge_val_h"></target>
+  <target name="t201_source_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t222_Makefile">
+    <command>cd $(top_builddir) &amp;&amp; $(SHELL) ./config.status $(subdir)/$@ $(am__depfiles_maybe)</command>
+    <actual_command>cd .. &amp;&amp; /bin/sh ./config.status test/$@ depfiles</actual_command>
+  </target>
+  <target name="t226_all_am"></target>
+  <target name="t59__usr_include_sys_types_h"></target>
+  <target name="t129__usr_include_cPLUSPLUS_3_3_6_bits_stl_function_h"></target>
+  <target name="t83__usr_include_cPLUSPLUS_3_3_6_cctype"></target>
+  <target name="t41__usr_include_string_h"></target>
+  <target name="t3_Makefile_am"></target>
+  <target name="t74__usr_include_cPLUSPLUS_3_3_6_iosfwd"></target>
+  <target name="t179__usr_include_bits_mathcalls_h"></target>
+  <target name="t32__usr_include_cPLUSPLUS_3_3_6_bits_stl_algobase_h"></target>
+  <target name="t24_libcpptest_la"></target>
+  <target name="t10__deps_utils_Plo"></target>
+  <target name="t106__usr_include_bits_posix_opt_h"></target>
+  <target name="t191__usr_include_cPLUSPLUS_3_3_6_stdexcept"></target>
+  <target name="t46__usr_include_limits_h"></target>
+  <target name="t212_textoutput_cpp"></target>
+  <target name="t200__usr_include_assert_h"></target>
+  <target name="t204_suite_cpp"></target>
+  <target name="t63__usr_include_time_h"></target>
+  <target name="t146__usr_include_cPLUSPLUS_3_3_6_bits_localefwd_h"></target>
+  <target name="t139__usr_include_cPLUSPLUS_3_3_6_bits_vector_tcc"></target>
+  <target name="t113__usr_include_cPLUSPLUS_3_3_6_bits_type_traits_h"></target>
+  <target name="t151__usr_include_cPLUSPLUS_3_3_6_bits_basic_ios_h"></target>
+  <target name="t96__usr_include_bits_sys_errlist_h"></target>
+  <target name="t132__usr_include_cPLUSPLUS_3_3_6_bits_stl_algo_h"></target>
+  <target name="t55__usr_include_bits_waitflags_h"></target>
+  <target name="t49__usr_include_linux_limits_h"></target>
+  <target name="t37__usr_include_gnu_stubs_h"></target>
+  <target name="t126__usr_include_cPLUSPLUS_3_3_6_bits_char_traits_h"></target>
+  <target name="t31__usr_include_cPLUSPLUS_3_3_6_exception_defines_h"></target>
+  <target name="t193_htmloutput_cpp"></target>
+  <target name="t177__usr_include_bits_nan_h"></target>
+  <target name="t58__usr_include_bits_endian_h"></target>
+  <target name="t145__usr_include_cPLUSPLUS_3_3_6_ios"></target>
+  <target name="t14__deps_source_Plo"></target>
+  <target name="t39__usr_include_cPLUSPLUS_3_3_6_cstddef"></target>
+  <target name="t20_Makefile_in">
+    <command>cd $(top_srcdir) &amp;&amp; \</command>
+    <command>$(AUTOMAKE) --gnu  src/Makefile</command>
+    <actual_command>cd .. &amp;&amp; \</actual_command>
+    <actual_command>/bin/sh /home/bram/tools/c++/cpptest-1.0.2/config/missing --run automake-1.7 --gnu src/Makefile</actual_command>
+  </target>
+  <target name="t27____config_config_h"></target>
+  <target name="t221__deps_mytest_Po"></target>
+  <target name="t44__usr_lib_gcc_lib_i486_slackware_linux_3_3_6_include_limits_h"></target>
+  <target name="t192_htmloutput_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t137__usr_include_cPLUSPLUS_3_3_6_bits_stl_vector_h"></target>
+  <target name="t186_compileroutput_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t158__usr_include_cPLUSPLUS_3_3_6_bits_codecvt_h"></target>
+  <target name="t77__usr_include_locale_h"></target>
+  <target name="t182__usr_include_cPLUSPLUS_3_3_6_limits"></target>
+  <target name="t22_all"></target>
+  <target name="t101__usr_include_sched_h"></target>
+  <target name="t123__usr_include_cPLUSPLUS_3_3_6_bits_stl_list_h"></target>
+  <target name="t174__usr_include_bits_huge_valf_h"></target>
+  <target name="t48__usr_include_bits_local_lim_h"></target>
+  <target name="t25_collectoroutput_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t157__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_ctype_inline_h"></target>
+  <target name="t35__usr_include_features_h"></target>
+  <target name="t89__usr_include_stdio_h"></target>
+  <target name="t111__usr_include_cPLUSPLUS_3_3_6_ctime"></target>
+  <target name="t181__usr_include_cPLUSPLUS_3_3_6_bits_cmath_tcc"></target>
+  <target name="t235_html_index_html"></target>
+  <target name="t219_cpptest_assert_h"></target>
+  <target name="t61__usr_include_bits_wordsize_h"></target>
+  <target name="t154__usr_include_cPLUSPLUS_3_3_6_cwctype"></target>
+  <target name="t6_config_status">
+    <command>$(SHELL) ./config.status --recheck</command>
+    <actual_command>/bin/sh ./config.status --recheck</actual_command>
+  </target>
+  <target name="t60__usr_include_bits_types_h"></target>
+  <target name="t236_all_local">
+    <command>doxygen</command>
+    <command>cp -dpR images/* html/</command>
+    <actual_command>doxygen</actual_command>
+    <actual_command>cp -dpR images/* html/</actual_command>
+  </target>
+  <target name="t227_mytest">
+    <command>@rm -f mytest$(EXEEXT)</command>
+    <command>$(CXXLINK) $(mytest_LDFLAGS) $(mytest_OBJECTS) $(mytest_LDADD) $(LIBS)</command>
+    <actual_command>@rm -f mytest</actual_command>
+    <actual_command>/bin/sh ../libtool --mode=link g++ -W -Wall -Wno-unused-parameter  $(AM_LDFLAGS)  -o $@ -static mytest.o ../src/libcpptest.la </actual_command>
+  </target>
+  <target name="t134__usr_include_cPLUSPLUS_3_3_6_bits_stl_tempbuf_h"></target>
+  <target name="t56__usr_include_bits_waitstatus_h"></target>
+  <target name="t54__usr_include_stdlib_h"></target>
+  <target name="t11__deps_time_Plo"></target>
+  <target name="t233_all"></target>
+  <target name="t196_missing_lo">
+    <command>if $(LTCXXCOMPILE) -MT $@ -MD -MP -MF "$(DEPDIR)/$*.Tpo" \</command>
+    <command>-c -o $@ `test -f '$&lt;' || echo '$(srcdir)/'`$&lt;; \</command>
+    <command>then mv "$(DEPDIR)/$*.Tpo" "$(DEPDIR)/$*.Plo"; \</command>
+    <command>else rm -f "$(DEPDIR)/$*.Tpo"; exit 1; \</command>
+    <command>fi</command>
+    <actual_command>if /bin/sh ../libtool --mode=compile g++ -DHAVE_CONFIG_H -I. -I. -I../config $(INCLUDES) $(AM_CPPFLAGS)  -O2 -W -Wall -Wno-unused-parameter  -MT $@ -MD -MP -MF ".deps/$*.Tpo" \</actual_command>
+    <actual_command>-c -o $@ `test -f '$&lt;' || echo './'`$&lt;; \</actual_command>
+    <actual_command>then mv ".deps/$*.Tpo" ".deps/$*.Plo"; \</actual_command>
+    <actual_command>else rm -f ".deps/$*.Tpo"; exit 1; \</actual_command>
+    <actual_command>fi</actual_command>
+  </target>
+  <target name="t168__usr_include_bits_errno_h"></target>
+  <target name="t12__deps_textoutput_Plo"></target>
+  <target name="t52__usr_include_bits_stdio_lim_h"></target>
+  <target name="t110__usr_include_cPLUSPLUS_3_3_6_cwchar"></target>
+  <target name="t149__usr_include_cPLUSPLUS_3_3_6_streambuf"></target>
+  <target name="t183__usr_include_cPLUSPLUS_3_3_6_typeinfo"></target>
+  <target name="t156__usr_include_cPLUSPLUS_3_3_6_i486_slackware_linux_bits_ctype_base_h"></target>
+  <target name="t21_Makefile_am"></target>
+  <target name="t107__usr_include_bits_environments_h"></target>
+  <target name="t155__usr_include_wctype_h"></target>
+</build>

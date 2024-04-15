@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t19_maybe_install_dejagnu"></target>
+  <target name="t10_maybe_install_autoconf"></target>
+  <target name="t2_______compile_gcc_4_1_1_Makefile_in">
+    <command>cd $(srcdir) &amp;&amp; $(AUTOGEN) Makefile.def</command>
+    <actual_command>cd ../../compile/gcc-4.1.1 &amp;&amp; autogen Makefile.def</actual_command>
+  </target>
+  <target name="t3_config_status">
+    <command>CONFIG_SHELL="$(SHELL)" $(SHELL) ./config.status --recheck</command>
+    <actual_command>CONFIG_SHELL="/bin/sh" /bin/sh ./config.status --recheck</actual_command>
+  </target>
+  <target name="t11_maybe_install_automake"></target>
+  <target name="t9_maybe_install_ash"></target>
+  <target name="t17_maybe_install_byacc"></target>
+  <target name="t23_maybe_install_fastjar"></target>
+  <target name="t12_maybe_install_bash"></target>
+  <target name="t22_maybe_install_etc"></target>
+  <target name="t18_maybe_install_bzip2"></target>
+  <target name="t14_maybe_install_opcodes"></target>
+  <target name="t13_maybe_install_bfd"></target>
+  <target name="t20_maybe_install_diff"></target>
+  <target name="t24_install_fastjar">
+    <command>@: $(MAKE); $(unstage)</command>
+    <command>@r=`${PWD_COMMAND}`; export r; \</command>
+    <command>s=`cd $(srcdir); ${PWD_COMMAND}`; export s; \</command>
+    <command>$(HOST_EXPORTS) \</command>
+    <command>(cd $(HOST_SUBDIR)/fastjar &amp;&amp; \</command>
+    <command>$(MAKE) $(FLAGS_TO_PASS)  install)</command>
+    <actual_command>@: make; :</actual_command>
+    <actual_command>@r=`$${PWDCMD-pwd}`; export r; \</actual_command>
+    <actual_command>s=`cd ../../compile/gcc-4.1.1; $${PWDCMD-pwd}`; export s; \</actual_command>
+    <actual_command>FLEX="flex"; export FLEX; LEX="flex"; export LEX; BISON="/home/badams/workspace/compile/gcc-4.1.1/missing bison"; export BISON; YACC="/home/badams/workspace/compile/gcc-4.1.1/missing bison -y"; export YACC; M4="m4"; export M4; MAKEINFO="/home/badams/workspace/compile/gcc-4.1.1/missing makeinfo --split-size=5000000"; export MAKEINFO; CC="gcc"; export CC; CFLAGS="-g -O2"; export CFLAGS; CONFIG_SHELL="/bin/sh"; export CONFIG_SHELL; CXX="c++"; export CXX; CXXFLAGS="-g -O2"; export CXXFLAGS; AR="ar"; export AR; AS="as"; export AS; CC_FOR_BUILD="gcc"; export CC_FOR_BUILD; DLLTOOL="dlltool"; export DLLTOOL; LD="ld"; export LD; LDFLAGS=""; export LDFLAGS; NM="nm"; export NM; RANLIB="ranlib"; export RANLIB; WINDRES="windres"; export WINDRES; OBJCOPY="$(OBJCOPY)"; export OBJCOPY; OBJDUMP="$(OBJDUMP)"; export OBJDUMP; AR_FOR_TARGET="ar"; export AR_FOR_TARGET; AS_FOR_TARGET="as"; export AS_FOR_TARGET; GCC_FOR_TARGET="$(STAGE_CC_WRAPPER) $$r/./gcc/xgcc -B$$r/./gcc/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include"; export GCC_FOR_TARGET; LD_FOR_TARGET="ld"; export LD_FOR_TARGET; NM_FOR_TARGET="nm"; export NM_FOR_TARGET; OBJDUMP_FOR_TARGET=""; export OBJDUMP_FOR_TARGET; RANLIB_FOR_TARGET="ranlib"; export RANLIB_FOR_TARGET; TOPLEVEL_CONFIGURE_ARGUMENTS="../../compile/gcc-4.1.1/configure --prefix=/home/badams/workspace/gcc/gcc-install"; export TOPLEVEL_CONFIGURE_ARGUMENTS; GMPLIBS="-lmpfr -lgmp"; export GMPLIBS; GMPINC=""; export GMPINC; LD_LIBRARY_PATH=`echo "$(HOST_LIB_PATH_bfd)$(HOST_LIB_PATH_opcodes)$$LD_LIBRARY_PATH" | sed 's,::*,:,g;s,^:*,,;s,:*$$,,'`; export LD_LIBRARY_PATH; \</actual_command>
+    <actual_command>(cd ./fastjar &amp;&amp; \</actual_command>
+    <actual_command>make "DESTDIR=" "RPATH_ENVVAR=LD_LIBRARY_PATH" "TARGET_SUBDIR=x86_64-unknown-linux-gnu" "bindir=/home/badams/workspace/gcc/gcc-install/bin" "datadir=/home/badams/workspace/gcc/gcc-install/share" "exec_prefix=/home/badams/workspace/gcc/gcc-install" "includedir=/home/badams/workspace/gcc/gcc-install/include" "infodir=/home/badams/workspace/gcc/gcc-install/info" "libdir=/home/badams/workspace/gcc/gcc-install/lib" "libexecdir=/home/badams/workspace/gcc/gcc-install/libexec" "lispdir=" "localstatedir=/home/badams/workspace/gcc/gcc-install/var" "mandir=/home/badams/workspace/gcc/gcc-install/man" "oldincludedir=/usr/include" "prefix=/home/badams/workspace/gcc/gcc-install" "sbindir=/home/badams/workspace/gcc/gcc-install/sbin" "sharedstatedir=/home/badams/workspace/gcc/gcc-install/com" "sysconfdir=/home/badams/workspace/gcc/gcc-install/etc" "tooldir=/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu" "build_tooldir=/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu" "target_alias=x86_64-unknown-linux-gnu" "BISON=/home/badams/workspace/compile/gcc-4.1.1/missing bison" "CC_FOR_BUILD=gcc" "CFLAGS_FOR_BUILD=-g -O2" "CXX_FOR_BUILD=c++" "EXPECT=expect" "FLEX=flex" "INSTALL=/usr/bin/install -c" "INSTALL_DATA=/usr/bin/install -c -m 644" "INSTALL_PROGRAM=/usr/bin/install -c" "INSTALL_SCRIPT=/usr/bin/install -c" "LEX=flex" "M4=m4" "MAKE=make" "RUNTEST=runtest" "RUNTESTFLAGS=" "SHELL=/bin/sh" "YACC=/home/badams/workspace/compile/gcc-4.1.1/missing bison -y" "AR_FLAGS=rc" "CFLAGS=-g -O2" "CXXFLAGS=-g -O2" "LDFLAGS=" "LIBCFLAGS=-g -O2" "LIBCXXFLAGS=-g -O2 -fno-implicit-templates" "AR_FOR_TARGET=ar" "AS_FOR_TARGET=as" "CC_FOR_TARGET=/home/badams/workspace/gcc/gcc-build/./gcc/xgcc -B/home/badams/workspace/gcc/gcc-build/./gcc/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "CFLAGS_FOR_TARGET=-O2 -g -O2" "CPPFLAGS_FOR_TARGET=" "CXX_FOR_TARGET=/home/badams/workspace/gcc/gcc-build/./gcc/g++ -B/home/badams/workspace/gcc/gcc-build/./gcc/ -nostdinc++ -L/home/badams/workspace/gcc/gcc-build/x86_64-unknown-linux-gnu/libstdc++-v3/src -L/home/badams/workspace/gcc/gcc-build/x86_64-unknown-linux-gnu/libstdc++-v3/src/.libs -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "CXXFLAGS_FOR_TARGET=-g -O2 -D_GNU_SOURCE" "DLLTOOL_FOR_TARGET=dlltool" "GCJ_FOR_TARGET=/home/badams/workspace/gcc/gcc-build/./gcc/gcj -B/home/badams/workspace/gcc/gcc-build/./gcc/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "GFORTRAN_FOR_TARGET=-B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "LD_FOR_TARGET=ld" "LIPO_FOR_TARGET=lipo" "LDFLAGS_FOR_TARGET=" "LIBCFLAGS_FOR_TARGET=-O2 -g -O2" "LIBCXXFLAGS_FOR_TARGET=-g -O2 -D_GNU_SOURCE -fno-implicit-templates" "NM_FOR_TARGET=nm" "OBJDUMP_FOR_TARGET=" "RANLIB_FOR_TARGET=ranlib" "STRIP_FOR_TARGET=strip" "WINDRES_FOR_TARGET=windres" "CONFIG_SHELL=/bin/sh" "MAKEINFO=/home/badams/workspace/compile/gcc-4.1.1/missing makeinfo --split-size=5000000 --split-size=5000000" 'AR=ar' 'AS=as' 'CC=gcc' 'CXX=c++' 'DLLTOOL=dlltool' 'LD=ld' 'LIPO=lipo' 'NM=nm' 'RANLIB=ranlib' 'STRIP=strip' 'WINDRES=windres' install)</actual_command>
+  </target>
+  <target name="t8_install_host"></target>
+  <target name="t1_Makefile">
+    <command>CONFIG_FILES=$@ CONFIG_HEADERS= $(SHELL) ./config.status</command>
+    <actual_command>CONFIG_FILES=$@ CONFIG_HEADERS= /bin/sh ./config.status</actual_command>
+  </target>
+  <target name="t7_mkinstalldirs"></target>
+  <target name="t21_maybe_install_dosutils"></target>
+  <target name="install">
+    <command>@: $(MAKE); $(unstage)</command>
+    <command>@r=`${PWD_COMMAND}`; export r; \</command>
+    <command>s=`cd $(srcdir); ${PWD_COMMAND}`; export s; \</command>
+    <command>$(MAKE) $(RECURSE_FLAGS_TO_PASS) installdirs install-host install-target</command>
+    <command>@: $(MAKE); $(stage)</command>
+    <actual_command>@: make; :</actual_command>
+    <actual_command>@r=`$${PWDCMD-pwd}`; export r; \</actual_command>
+    <actual_command>s=`cd ../../compile/gcc-4.1.1; $${PWDCMD-pwd}`; export s; \</actual_command>
+    <actual_command>make "DESTDIR=$(DESTDIR)" "RPATH_ENVVAR=LD_LIBRARY_PATH" "TARGET_SUBDIR=x86_64-unknown-linux-gnu" "bindir=/home/badams/workspace/gcc/gcc-install/bin" "datadir=/home/badams/workspace/gcc/gcc-install/share" "exec_prefix=/home/badams/workspace/gcc/gcc-install" "includedir=/home/badams/workspace/gcc/gcc-install/include" "infodir=/home/badams/workspace/gcc/gcc-install/info" "libdir=/home/badams/workspace/gcc/gcc-install/lib" "libexecdir=/home/badams/workspace/gcc/gcc-install/libexec" "lispdir=$(lispdir)" "localstatedir=/home/badams/workspace/gcc/gcc-install/var" "mandir=/home/badams/workspace/gcc/gcc-install/man" "oldincludedir=/usr/include" "prefix=/home/badams/workspace/gcc/gcc-install" "sbindir=/home/badams/workspace/gcc/gcc-install/sbin" "sharedstatedir=/home/badams/workspace/gcc/gcc-install/com" "sysconfdir=/home/badams/workspace/gcc/gcc-install/etc" "tooldir=/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu" "build_tooldir=/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu" "target_alias=x86_64-unknown-linux-gnu" "BISON=/home/badams/workspace/compile/gcc-4.1.1/missing bison" "CC_FOR_BUILD=gcc" "CFLAGS_FOR_BUILD=-g -O2" "CXX_FOR_BUILD=c++" "EXPECT=expect" "FLEX=flex" "INSTALL=/usr/bin/install -c" "INSTALL_DATA=/usr/bin/install -c -m 644" "INSTALL_PROGRAM=/usr/bin/install -c" "INSTALL_SCRIPT=/usr/bin/install -c" "LEX=flex" "M4=m4" "MAKE=make" "RUNTEST=runtest" "RUNTESTFLAGS=$(RUNTESTFLAGS)" "SHELL=/bin/sh" "YACC=/home/badams/workspace/compile/gcc-4.1.1/missing bison -y" "AR_FLAGS=rc" "CFLAGS=-g -O2" "CXXFLAGS=-g -O2" "LDFLAGS=" "LIBCFLAGS=-g -O2" "LIBCXXFLAGS=-g -O2 -fno-implicit-templates" "AR_FOR_TARGET=ar" "AS_FOR_TARGET=as" "CC_FOR_TARGET=$(STAGE_CC_WRAPPER) $$r/./gcc/xgcc -B$$r/./gcc/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "CFLAGS_FOR_TARGET=-O2 -g -O2 " "CPPFLAGS_FOR_TARGET=$(CPPFLAGS_FOR_TARGET)" "CXX_FOR_TARGET=$(STAGE_CC_WRAPPER) $$r/./gcc/g++ -B$$r/./gcc/ -nostdinc++ `test ! -f $$r/x86_64-unknown-linux-gnu/libstdc++-v3/scripts/testsuite_flags || /bin/sh $$r/x86_64-unknown-linux-gnu/libstdc++-v3/scripts/testsuite_flags --build-includes` -L$$r/x86_64-unknown-linux-gnu/libstdc++-v3/src -L$$r/x86_64-unknown-linux-gnu/libstdc++-v3/src/.libs -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "CXXFLAGS_FOR_TARGET=-g -O2  -D_GNU_SOURCE" "DLLTOOL_FOR_TARGET=dlltool" "GCJ_FOR_TARGET=$(STAGE_CC_WRAPPER) $$r/./gcc/gcj -B$$r/./gcc/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "GFORTRAN_FOR_TARGET=$(STAGE_CC_WRAPPER) $(GFORTRAN) -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/bin/ -B/home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/lib/ -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/include -isystem /home/badams/workspace/gcc/gcc-install/x86_64-unknown-linux-gnu/sys-include" "LD_FOR_TARGET=ld" "LIPO_FOR_TARGET=lipo" "LDFLAGS_FOR_TARGET=" "LIBCFLAGS_FOR_TARGET=-O2 -g -O2 " "LIBCXXFLAGS_FOR_TARGET=-g -O2  -D_GNU_SOURCE -fno-implicit-templates" "NM_FOR_TARGET=nm" "OBJDUMP_FOR_TARGET=$(OBJDUMP)" "RANLIB_FOR_TARGET=ranlib" "STRIP_FOR_TARGET=strip" "WINDRES_FOR_TARGET=windres" "CONFIG_SHELL=/bin/sh" "MAKEINFO=/home/badams/workspace/compile/gcc-4.1.1/missing makeinfo --split-size=5000000" installdirs install-host install-target</actual_command>
+    <actual_command>@: make; :</actual_command>
+  </target>
+  <target name="t15_maybe_install_binutils"></target>
+  <target name="t16_maybe_install_bison"></target>
+  <target name="t4_______compile_gcc_4_1_1_configure">
+    <command>cd $(srcdir) &amp;&amp; $(AUTOCONF)</command>
+    <actual_command>cd ../../compile/gcc-4.1.1 &amp;&amp; autoconf</actual_command>
+  </target>
+  <target name="t6_installdirs">
+    <command>$(SHELL) $(srcdir)/mkinstalldirs $(MAKEDIRS)</command>
+    <actual_command>/bin/sh ../../compile/gcc-4.1.1/mkinstalldirs /home/badams/workspace/gcc/gcc-install /home/badams/workspace/gcc/gcc-install</actual_command>
+  </target>
+</build>

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<build>
+  <target name="t305__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenRefCount_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t62__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CSharpCharFormatter_java"></target>
+  <target name="t145__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamHiddenTokenFilter_java"></target>
+  <target name="t169__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_List_java"></target>
+  <target name="t42__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ANTLRException_java"></target>
+  <target name="t201__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserController_java"></target>
+  <target name="t212__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SemanticPredicateEvent_java"></target>
+  <target name="t306__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenRefCount_cpp"></target>
+  <target name="t173__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_BitSet_java"></target>
+  <target name="t13_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update antlr/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="antlr/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t14__home_bram_tools_java_antlr_2_7_6_scripts____antlr_Makefile_in"></target>
+  <target name="t301__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenStreamRewriteEngine_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t108__home_bram_tools_java_antlr_2_7_6_antlr____antlr_MakeGrammar_java"></target>
+  <target name="t109__home_bram_tools_java_antlr_2_7_6_antlr____antlr_MismatchedCharException_java"></target>
+  <target name="t158__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeParserSharedInputState_java"></target>
+  <target name="t119__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ParserGrammar_java"></target>
+  <target name="t322_all_this"></target>
+  <target name="t25_ANTLRTokdefParserTokenTypes_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t89__home_bram_tools_java_antlr_2_7_6_antlr____antlr_FileCopyException_java"></target>
+  <target name="t304__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TreeParser_cpp"></target>
+  <target name="t129__home_bram_tools_java_antlr_2_7_6_antlr____antlr_RuleSymbol_java"></target>
+  <target name="t138__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenManager_java"></target>
+  <target name="t48__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ASTNULLType_java"></target>
+  <target name="t196__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_MessageListener_java"></target>
+  <target name="t256__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_ASTRefCount_cpp"></target>
+  <target name="t179__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_Vector_java"></target>
+  <target name="t32_actions_csharp_ActionLexer_java">
+    <command>@cd actions/csharp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/csharp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t312__home_bram_tools_java_antlr_2_7_6_scripts____lib_python_Makefile_in"></target>
+  <target name="t254__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_ASTNULLType_cpp"></target>
+  <target name="t241_all"></target>
+  <target name="t184__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_DebuggingParser_java"></target>
+  <target name="t244_all"></target>
+  <target name="t57__home_bram_tools_java_antlr_2_7_6_antlr____antlr_BlockContext_java"></target>
+  <target name="t190__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_InputBufferListener_java"></target>
+  <target name="t183__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_DebuggingInputBuffer_java"></target>
+  <target name="t105__home_bram_tools_java_antlr_2_7_6_antlr____antlr_LexerGrammar_java"></target>
+  <target name="t262__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CharBuffer_cpp"></target>
+  <target name="t225__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Option_java"></target>
+  <target name="t206__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserMatchListener_java"></target>
+  <target name="t91__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Grammar_java"></target>
+  <target name="t307__home_bram_tools_java_antlr_2_7_6_scripts_lib_sh">
+    <command>@echo "*** update $@"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/lib.sh /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update $@"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/lib.sh /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t252__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_ASTFactory_cpp"></target>
+  <target name="t78__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CppBlockFinishingInfo_java"></target>
+  <target name="t165__home_bram_tools_java_antlr_2_7_6_antlr____antlr_build_Tool_java"></target>
+  <target name="t235_all">
+    <command>@dirs="$(SUBDIRS)" ; \</command>
+    <command>test -z "$${dirs}" &amp;&amp; { \</command>
+    <command>dirs=`/bin/ls` ; \</command>
+    <command>} ; \</command>
+    <command>for d in . $${dirs} ; do \</command>
+    <command>case $${d} in \</command>
+    <command>. | .. ) ;; \</command>
+    <command>$(SUBDIRS_NOT) ) ;; \</command>
+    <command>*) \</command>
+    <command>if test -f "$${d}/Makefile" ; then \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>echo "&gt;&gt; $(MAKE) -C $(subdir)/$${d} $@                              " ; \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>$(MAKE) -C "$$d" $@ || exit 1 ;\</command>
+    <command>fi ; \</command>
+    <command>;; \</command>
+    <command>esac ; \</command>
+    <command>done</command>
+    <actual_command>@dirs="cpp python csharp" ; \</actual_command>
+    <actual_command>test -z "$${dirs}" &amp;&amp; { \</actual_command>
+    <actual_command>dirs=`/bin/ls` ; \</actual_command>
+    <actual_command>} ; \</actual_command>
+    <actual_command>for d in . $${dirs} ; do \</actual_command>
+    <actual_command>case $${d} in \</actual_command>
+    <actual_command>. | .. ) ;; \</actual_command>
+    <actual_command>. ) ;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>if test -f "$${d}/Makefile" ; then \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>echo "&gt;&gt; make -C lib/$${d} $@ " ; \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>make -C "$$d" $@ || exit 1 ;\</actual_command>
+    <actual_command>fi ; \</actual_command>
+    <actual_command>;; \</actual_command>
+    <actual_command>esac ; \</actual_command>
+    <actual_command>done</actual_command>
+  </target>
+  <target name="t186__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_GuessingEvent_java"></target>
+  <target name="t210__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserTokenListener_java"></target>
+  <target name="t250__home_bram_tools_java_antlr_2_7_6_scripts____scripts_cxx_sh_in"></target>
+  <target name="t162__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ZeroOrMoreBlock_java"></target>
+  <target name="t281__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_NoViableAltException_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t147__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamRecognitionException_java"></target>
+  <target name="t113__home_bram_tools_java_antlr_2_7_6_antlr____antlr_NoViableAltForCharException_java"></target>
+  <target name="t85__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DocBookCodeGenerator_java"></target>
+  <target name="t197__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_NewLineEvent_java"></target>
+  <target name="t98__home_bram_tools_java_antlr_2_7_6_antlr____antlr_InputBuffer_java"></target>
+  <target name="t228__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_PreprocessorTokenTypes_java"></target>
+  <target name="t55__home_bram_tools_java_antlr_2_7_6_antlr____antlr_AlternativeElement_java"></target>
+  <target name="t72__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharStreamIOException_java"></target>
+  <target name="t293__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenBuffer_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t123__home_bram_tools_java_antlr_2_7_6_antlr____antlr_PythonCharFormatter_java"></target>
+  <target name="t292__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_Token_cpp"></target>
+  <target name="t86__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DumpASTVisitor_java"></target>
+  <target name="t245_lib"></target>
+  <target name="t50__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ASTVisitor_java"></target>
+  <target name="t319_this_all"></target>
+  <target name="t15_all"></target>
+  <target name="t258__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_BaseAST_cpp"></target>
+  <target name="t178__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_LList_java"></target>
+  <target name="t88__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ExceptionSpec_java"></target>
+  <target name="t259__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_BitSet_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t18_ANTLRParser_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t232__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_misc_JTreeASTPanel_java"></target>
+  <target name="t20_ANTLRTokenTypes_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t278__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_MismatchedCharException_cpp"></target>
+  <target name="t35_actions_python_ActionLexer_java">
+    <command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t7__home_bram_tools_java_antlr_2_7_6_scripts_config_vars">
+    <command>@echo "*** update $@"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.vars /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update $@"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.vars /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t246__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_libantlr_a">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/lib.sh $(antlr_obj_FILES)</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/lib.sh /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/ANTLRUtil.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/ASTFactory.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/ASTNULLType.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/ASTRefCount.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/BaseAST.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/BitSet.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CharBuffer.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CharScanner.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CommonAST.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CommonASTWithHiddenTokens.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CommonHiddenStreamToken.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/CommonToken.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/InputBuffer.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/LLkParser.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/MismatchedCharException.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/MismatchedTokenException.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/NoViableAltException.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/NoViableAltForCharException.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/Parser.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/RecognitionException.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/String.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/Token.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenBuffer.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenStreamBasicFilter.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenStreamHiddenTokenFilter.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenStreamSelector.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenStreamRewriteEngine.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TreeParser.o /home/bram/tools/java/antlr-2.7.6/lib/cpp/src/TokenRefCount.o $(eol)</actual_command>
+  </target>
+  <target name="t74__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CommonAST_java"></target>
+  <target name="t159__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeSpecifierNode_java"></target>
+  <target name="t263__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CharScanner_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t27__home_bram_tools_java_antlr_2_7_6_antlr____antlr_actions_java_action_g"></target>
+  <target name="t267__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CommonASTWithHiddenTokens_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t146__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamIOException_java"></target>
+  <target name="t65__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharBuffer_java"></target>
+  <target name="t291__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_Token_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t205__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserMatchEvent_java"></target>
+  <target name="t236_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update lib/cpp/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="lib/cpp/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t102__home_bram_tools_java_antlr_2_7_6_antlr____antlr_LLkAnalyzer_java"></target>
+  <target name="t215__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SyntacticPredicateEvent_java"></target>
+  <target name="t237__home_bram_tools_java_antlr_2_7_6_scripts____lib_cpp_Makefile_in"></target>
+  <target name="t16__home_bram_tools_java_antlr_2_7_6_antlr_antlr_jar">
+    <command>@ -rm -f $@</command>
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/javac.sh $?</command>
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/jar.sh $@ antlr</command>
+    <command>@ test -f $@ || { exit 1; }</command>
+    <actual_command>@ -rm -f $@</actual_command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/javac.sh $?</actual_command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/jar.sh $@ antlr</actual_command>
+    <actual_command>@ test -f $@ || { exit 1; }</actual_command>
+  </target>
+  <target name="t125__home_bram_tools_java_antlr_2_7_6_antlr____antlr_RecognitionException_java"></target>
+  <target name="t249__home_bram_tools_java_antlr_2_7_6_scripts_cxx_sh">
+    <command>@echo "*** update $@"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/cxx.sh /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update $@"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/cxx.sh /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t233_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update lib/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="lib/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t77__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CommonToken_java"></target>
+  <target name="t36__home_bram_tools_java_antlr_2_7_6_antlr____antlr_actions_python_action_g"></target>
+  <target name="t97__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ImportVocabTokenManager_java"></target>
+  <target name="t29_actions_cpp_ActionLexer_java">
+    <command>@cd actions/cpp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/cpp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t214__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SyntacticPredicateAdapter_java"></target>
+  <target name="t148__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamRetryException_java"></target>
+  <target name="t3__home_bram_tools_java_antlr_2_7_6_scripts_config_deps">
+    <command>@echo "*** update $@"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.deps /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update $@"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.deps /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t46__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ASTFactory_java"></target>
+  <target name="t194__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_MessageAdapter_java"></target>
+  <target name="t151__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenSymbol_java"></target>
+  <target name="t285__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_Parser_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t272__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CommonToken_cpp"></target>
+  <target name="t273__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_InputBuffer_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t253__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_ASTNULLType_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t69__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharRangeElement_java"></target>
+  <target name="t112__home_bram_tools_java_antlr_2_7_6_antlr____antlr_NoViableAltException_java"></target>
+  <target name="t218__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_TraceEvent_java"></target>
+  <target name="t277__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_MismatchedCharException_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t104__home_bram_tools_java_antlr_2_7_6_antlr____antlr_LLkParser_java"></target>
+  <target name="t166__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_AST_java"></target>
+  <target name="t171__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_ASTArray_java"></target>
+  <target name="t22_ANTLRTokdefParser_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t17_Version_java"></target>
+  <target name="t53__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Alternative_java"></target>
+  <target name="t142__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStream_java"></target>
+  <target name="t139__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenQueue_java"></target>
+  <target name="t71__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharStreamException_java"></target>
+  <target name="t155__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeBlockContext_java"></target>
+  <target name="t207__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserReporter_java"></target>
+  <target name="t316_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update doc/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="doc/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t161__home_bram_tools_java_antlr_2_7_6_antlr____antlr_WildcardElement_java"></target>
+  <target name="t279__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_MismatchedTokenException_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t103__home_bram_tools_java_antlr_2_7_6_antlr____antlr_LLkGrammarAnalyzer_java"></target>
+  <target name="t127__home_bram_tools_java_antlr_2_7_6_antlr____antlr_RuleEndElement_java"></target>
+  <target name="t40_actions_python_CodeLexerTokenTypes_java">
+    <command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t315_all_this"></target>
+  <target name="t132__home_bram_tools_java_antlr_2_7_6_antlr____antlr_StringLiteralElement_java"></target>
+  <target name="t114__home_bram_tools_java_antlr_2_7_6_antlr____antlr_OneOrMoreBlock_java"></target>
+  <target name="t219__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_TraceListener_java"></target>
+  <target name="t170__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_Stack_java"></target>
+  <target name="t289__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_String_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t149__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamRewriteEngine_java"></target>
+  <target name="t239_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update lib/cpp/antlr/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="lib/cpp/antlr/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t130__home_bram_tools_java_antlr_2_7_6_antlr____antlr_SemanticException_java"></target>
+  <target name="t101__home_bram_tools_java_antlr_2_7_6_antlr____antlr_JavaCodeGenerator_java"></target>
+  <target name="t140__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenRangeElement_java"></target>
+  <target name="t70__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharScanner_java"></target>
+  <target name="t143__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamBasicFilter_java"></target>
+  <target name="t300__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenStreamSelector_cpp"></target>
+  <target name="t2__home_bram_tools_java_antlr_2_7_6_scripts______Makefile_in"></target>
+  <target name="t135__home_bram_tools_java_antlr_2_7_6_antlr____antlr_SynPredBlock_java"></target>
+  <target name="t43__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ANTLRGrammarParseBehavior_java"></target>
+  <target name="t51__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ActionElement_java"></target>
+  <target name="t172__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_ASTEnumerator_java"></target>
+  <target name="t156__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeElement_java"></target>
+  <target name="t52__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ActionTransInfo_java"></target>
+  <target name="t58__home_bram_tools_java_antlr_2_7_6_antlr____antlr_BlockEndElement_java"></target>
+  <target name="t141__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenRefElement_java"></target>
+  <target name="t8__home_bram_tools_java_antlr_2_7_6_scripts____scripts_config_vars_in"></target>
+  <target name="t128__home_bram_tools_java_antlr_2_7_6_antlr____antlr_RuleRefElement_java"></target>
+  <target name="t234__home_bram_tools_java_antlr_2_7_6_scripts____lib_Makefile_in"></target>
+  <target name="t87__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ExceptionHandler_java"></target>
+  <target name="t193__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ListenerBase_java"></target>
+  <target name="t41__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ANTLRError_java"></target>
+  <target name="t295__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenStreamBasicFilter_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t283__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_NoViableAltForCharException_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t92__home_bram_tools_java_antlr_2_7_6_antlr____antlr_GrammarAnalyzer_java"></target>
+  <target name="t231__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_misc_JTreeASTModel_java"></target>
+  <target name="t274__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_InputBuffer_cpp"></target>
+  <target name="t100__home_bram_tools_java_antlr_2_7_6_antlr____antlr_JavaCharFormatter_java"></target>
+  <target name="t265__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CommonAST_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t268__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CommonASTWithHiddenTokens_cpp"></target>
+  <target name="t286__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_Parser_cpp"></target>
+  <target name="t177__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_LLEnumeration_java"></target>
+  <target name="t122__home_bram_tools_java_antlr_2_7_6_antlr____antlr_PythonBlockFinishingInfo_java"></target>
+  <target name="t191__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_InputBufferReporter_java"></target>
+  <target name="t60__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ByteBuffer_java"></target>
+  <target name="t31_actions_cpp_ActionLexerTokenTypes_java">
+    <command>@cd actions/cpp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/cpp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t64__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CSharpNameSpace_java"></target>
+  <target name="t30__home_bram_tools_java_antlr_2_7_6_antlr____antlr_actions_cpp_action_g"></target>
+  <target name="t164__home_bram_tools_java_antlr_2_7_6_antlr____antlr_build_StreamScarfer_java"></target>
+  <target name="t248__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_ANTLRUtil_cpp"></target>
+  <target name="t185__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_Event_java"></target>
+  <target name="t288__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_RecognitionException_cpp"></target>
+  <target name="t133__home_bram_tools_java_antlr_2_7_6_antlr____antlr_StringLiteralSymbol_java"></target>
+  <target name="t63__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CSharpCodeGenerator_java"></target>
+  <target name="t24_ANTLRTokdefLexer_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t318_all">
+    <command>@dirs="$(SUBDIRS)" ; \</command>
+    <command>test -z "$${dirs}" &amp;&amp; { \</command>
+    <command>dirs=`/bin/ls` ; \</command>
+    <command>} ; \</command>
+    <command>for d in . $${dirs} ; do \</command>
+    <command>case $${d} in \</command>
+    <command>. | .. ) ;; \</command>
+    <command>$(SUBDIRS_NOT) ) ;; \</command>
+    <command>*) \</command>
+    <command>if test -f "$${d}/Makefile" ; then \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>echo "&gt;&gt; $(MAKE) -C $(subdir)/$${d} $@                              " ; \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>$(MAKE) -C "$$d" $@ || exit 1 ;\</command>
+    <command>fi ; \</command>
+    <command>;; \</command>
+    <command>esac ; \</command>
+    <command>done</command>
+    <actual_command>@dirs="" ; \</actual_command>
+    <actual_command>test -z "$${dirs}" &amp;&amp; { \</actual_command>
+    <actual_command>dirs=`/bin/ls` ; \</actual_command>
+    <actual_command>} ; \</actual_command>
+    <actual_command>for d in . $${dirs} ; do \</actual_command>
+    <actual_command>case $${d} in \</actual_command>
+    <actual_command>. | .. ) ;; \</actual_command>
+    <actual_command>. ) ;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>if test -f "$${d}/Makefile" ; then \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>echo "&gt;&gt; make -C doc/$${d} $@ " ; \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>make -C "$$d" $@ || exit 1 ;\</actual_command>
+    <actual_command>fi ; \</actual_command>
+    <actual_command>;; \</actual_command>
+    <actual_command>esac ; \</actual_command>
+    <actual_command>done</actual_command>
+  </target>
+  <target name="t134__home_bram_tools_java_antlr_2_7_6_antlr____antlr_StringUtils_java"></target>
+  <target name="t33__home_bram_tools_java_antlr_2_7_6_antlr____antlr_actions_csharp_action_g"></target>
+  <target name="t154__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ToolErrorHandler_java"></target>
+  <target name="t220__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_Tracer_java"></target>
+  <target name="t200__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserAdapter_java"></target>
+  <target name="t26_actions_java_ActionLexer_java">
+    <command>@cd actions/java &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/java &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t73__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CodeGenerator_java"></target>
+  <target name="t204__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserMatchAdapter_java"></target>
+  <target name="t314_this_all"></target>
+  <target name="t5__home_bram_tools_java_antlr_2_7_6_scripts_config_make">
+    <command>@echo "*** update $@"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.make /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update $@"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES=scripts/config.make /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t320_all_this"></target>
+  <target name="t1_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update ./Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="./Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t313_all"></target>
+  <target name="t150__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamSelector_java"></target>
+  <target name="t6__home_bram_tools_java_antlr_2_7_6_scripts____scripts_config_make_in"></target>
+  <target name="t136__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Token_java"></target>
+  <target name="t19__home_bram_tools_java_antlr_2_7_6_antlr____antlr_antlr_g"></target>
+  <target name="t195__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_MessageEvent_java"></target>
+  <target name="t280__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_MismatchedTokenException_cpp"></target>
+  <target name="t157__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeParser_java"></target>
+  <target name="t168__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_Enumerator_java"></target>
+  <target name="t202__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserEventSupport_java"></target>
+  <target name="t9__home_bram_tools_java_antlr_2_7_6_config_status">
+    <command>@echo "*** reconfigure $@ - stay tuned .."</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; /bin/sh ./config.status -q --recheck</command>
+    <command>@echo "*** update all configured files .."</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** reconfigure $@ - stay tuned .."</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; /bin/sh ./config.status -q --recheck</actual_command>
+    <actual_command>@echo "*** update all configured files .."</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t238_all">
+    <command>@dirs="$(SUBDIRS)" ; \</command>
+    <command>test -z "$${dirs}" &amp;&amp; { \</command>
+    <command>dirs=`/bin/ls` ; \</command>
+    <command>} ; \</command>
+    <command>for d in . $${dirs} ; do \</command>
+    <command>case $${d} in \</command>
+    <command>. | .. ) ;; \</command>
+    <command>$(SUBDIRS_NOT) ) ;; \</command>
+    <command>*) \</command>
+    <command>if test -f "$${d}/Makefile" ; then \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>echo "&gt;&gt; $(MAKE) -C $(subdir)/$${d} $@                              " ; \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>$(MAKE) -C "$$d" $@ || exit 1 ;\</command>
+    <command>fi ; \</command>
+    <command>;; \</command>
+    <command>esac ; \</command>
+    <command>done</command>
+    <actual_command>@dirs="" ; \</actual_command>
+    <actual_command>test -z "$${dirs}" &amp;&amp; { \</actual_command>
+    <actual_command>dirs=`/bin/ls` ; \</actual_command>
+    <actual_command>} ; \</actual_command>
+    <actual_command>for d in . $${dirs} ; do \</actual_command>
+    <actual_command>case $${d} in \</actual_command>
+    <actual_command>. | .. ) ;; \</actual_command>
+    <actual_command>. ) ;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>if test -f "$${d}/Makefile" ; then \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>echo "&gt;&gt; make -C lib/cpp/$${d} $@ " ; \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>make -C "$$d" $@ || exit 1 ;\</actual_command>
+    <actual_command>fi ; \</actual_command>
+    <actual_command>;; \</actual_command>
+    <actual_command>esac ; \</actual_command>
+    <actual_command>done</actual_command>
+  </target>
+  <target name="t106__home_bram_tools_java_antlr_2_7_6_antlr____antlr_LexerSharedInputState_java"></target>
+  <target name="t310_all_this"></target>
+  <target name="t54__home_bram_tools_java_antlr_2_7_6_antlr____antlr_AlternativeBlock_java"></target>
+  <target name="t187__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_InputBufferAdapter_java"></target>
+  <target name="t66__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharFormatter_java"></target>
+  <target name="t81__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DefaultFileLineFormatter_java"></target>
+  <target name="t37_actions_python_ActionLexerTokenTypes_java">
+    <command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t242_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update lib/cpp/src/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="lib/cpp/src/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t39__home_bram_tools_java_antlr_2_7_6_antlr____antlr_actions_python_code_g"></target>
+  <target name="t299__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenStreamSelector_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t56__home_bram_tools_java_antlr_2_7_6_antlr____antlr_BaseAST_java"></target>
+  <target name="t99__home_bram_tools_java_antlr_2_7_6_antlr____antlr_JavaBlockFinishingInfo_java"></target>
+  <target name="t75__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CommonASTWithHiddenTokens_java"></target>
+  <target name="t93__home_bram_tools_java_antlr_2_7_6_antlr____antlr_GrammarAtom_java"></target>
+  <target name="t309_this_all"></target>
+  <target name="t111__home_bram_tools_java_antlr_2_7_6_antlr____antlr_NameSpace_java"></target>
+  <target name="t115__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ParseTree_java"></target>
+  <target name="t208__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserTokenAdapter_java"></target>
+  <target name="t224__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Hierarchy_java"></target>
+  <target name="t261__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CharBuffer_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t79__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CppCharFormatter_java"></target>
+  <target name="t84__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DiagnosticCodeGenerator_java"></target>
+  <target name="t269__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CommonHiddenStreamToken_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t49__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ASTPair_java"></target>
+  <target name="t4__home_bram_tools_java_antlr_2_7_6_scripts____scripts_config_deps_in"></target>
+  <target name="t308__home_bram_tools_java_antlr_2_7_6_scripts____scripts_lib_sh_in"></target>
+  <target name="t275__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_LLkParser_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t44__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ANTLRHashString_java"></target>
+  <target name="t189__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_InputBufferEventSupport_java"></target>
+  <target name="t21_ANTLRLexer_java">
+    <command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>/bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t264__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CharScanner_cpp"></target>
+  <target name="t209__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserTokenEvent_java"></target>
+  <target name="t126__home_bram_tools_java_antlr_2_7_6_antlr____antlr_RuleBlock_java"></target>
+  <target name="t276__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_LLkParser_cpp"></target>
+  <target name="t110__home_bram_tools_java_antlr_2_7_6_antlr____antlr_MismatchedTokenException_java"></target>
+  <target name="t116__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ParseTreeRule_java"></target>
+  <target name="t118__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Parser_java"></target>
+  <target name="t68__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharQueue_java"></target>
+  <target name="t255__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_ASTRefCount_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t124__home_bram_tools_java_antlr_2_7_6_antlr____antlr_PythonCodeGenerator_java"></target>
+  <target name="t271__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_CommonToken_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t257__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_BaseAST_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t229__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Rule_java"></target>
+  <target name="t181__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_VectorEnumerator_java"></target>
+  <target name="t266__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CommonAST_cpp"></target>
+  <target name="t95__home_bram_tools_java_antlr_2_7_6_antlr____antlr_GrammarSymbol_java"></target>
+  <target name="t213__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SemanticPredicateListener_java"></target>
+  <target name="t80__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CppCodeGenerator_java"></target>
+  <target name="t83__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DefineGrammarSymbols_java"></target>
+  <target name="t28_actions_java_ActionLexerTokenTypes_java">
+    <command>@cd actions/java &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/java &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t82__home_bram_tools_java_antlr_2_7_6_antlr____antlr_DefaultToolErrorHandler_java"></target>
+  <target name="t174__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_IndexedVector_java"></target>
+  <target name="t294__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenBuffer_cpp"></target>
+  <target name="t94__home_bram_tools_java_antlr_2_7_6_antlr____antlr_GrammarElement_java"></target>
+  <target name="t12_all">
+    <command>@dirs="$(SUBDIRS)" ; \</command>
+    <command>test -z "$${dirs}" &amp;&amp; { \</command>
+    <command>dirs=`/bin/ls` ; \</command>
+    <command>} ; \</command>
+    <command>for d in . $${dirs} ; do \</command>
+    <command>case $${d} in \</command>
+    <command>. | .. ) ;; \</command>
+    <command>$(SUBDIRS_NOT) ) ;; \</command>
+    <command>*) \</command>
+    <command>if test -f "$${d}/Makefile" ; then \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>echo "&gt;&gt; $(MAKE) -C $(subdir)/$${d} $@                              " ; \</command>
+    <command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</command>
+    <command>$(MAKE) -C "$$d" $@ || exit 1 ;\</command>
+    <command>fi ; \</command>
+    <command>;; \</command>
+    <command>esac ; \</command>
+    <command>done</command>
+    <actual_command>@dirs="antlr lib doc" ; \</actual_command>
+    <actual_command>test -z "$${dirs}" &amp;&amp; { \</actual_command>
+    <actual_command>dirs=`/bin/ls` ; \</actual_command>
+    <actual_command>} ; \</actual_command>
+    <actual_command>for d in . $${dirs} ; do \</actual_command>
+    <actual_command>case $${d} in \</actual_command>
+    <actual_command>. | .. ) ;; \</actual_command>
+    <actual_command>. ) ;; \</actual_command>
+    <actual_command>*) \</actual_command>
+    <actual_command>if test -f "$${d}/Makefile" ; then \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>echo "&gt;&gt; make -C ./$${d} $@ " ; \</actual_command>
+    <actual_command>echo "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" ; \</actual_command>
+    <actual_command>make -C "$$d" $@ || exit 1 ;\</actual_command>
+    <actual_command>fi ; \</actual_command>
+    <actual_command>;; \</actual_command>
+    <actual_command>esac ; \</actual_command>
+    <actual_command>done</actual_command>
+  </target>
+  <target name="t176__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_LLCell_java"></target>
+  <target name="t217__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_TraceAdapter_java"></target>
+  <target name="t121__home_bram_tools_java_antlr_2_7_6_antlr____antlr_PreservingFileWriter_java"></target>
+  <target name="t76__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CommonHiddenStreamToken_java"></target>
+  <target name="t175__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_IntRange_java"></target>
+  <target name="t160__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TreeWalkerGrammar_java"></target>
+  <target name="t270__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_CommonHiddenStreamToken_cpp"></target>
+  <target name="t223__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_GrammarFile_java"></target>
+  <target name="t144__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenStreamException_java"></target>
+  <target name="t230__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Tool_java"></target>
+  <target name="t216__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SyntacticPredicateListener_java"></target>
+  <target name="t90__home_bram_tools_java_antlr_2_7_6_antlr____antlr_FileLineFormatter_java"></target>
+  <target name="t321_this_all"></target>
+  <target name="t297__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TokenStreamHiddenTokenFilter_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t199__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParseTreeDebugParser_java"></target>
+  <target name="t287__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_RecognitionException_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t167__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_ASTEnumeration_java"></target>
+  <target name="t303__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_TreeParser_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t180__home_bram_tools_java_antlr_2_7_6_antlr____antlr_collections_impl_VectorEnumeration_java"></target>
+  <target name="t290__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_String_cpp"></target>
+  <target name="t182__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_DebuggingCharScanner_java"></target>
+  <target name="t61__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CSharpBlockFinishingInfo_java"></target>
+  <target name="t251__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_ASTFactory_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t222__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Grammar_java"></target>
+  <target name="t153__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Tool_java"></target>
+  <target name="t221__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_misc_ASTFrame_java"></target>
+  <target name="t10__home_bram_tools_java_antlr_2_7_6_scripts____configure"></target>
+  <target name="t192__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_LLkDebuggingParser_java"></target>
+  <target name="t38_actions_python_CodeLexer_java">
+    <command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/python &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t163__home_bram_tools_java_antlr_2_7_6_antlr____antlr_build_ANTLR_java"></target>
+  <target name="t260__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_BitSet_cpp"></target>
+  <target name="t47__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ASTIterator_java"></target>
+  <target name="t203__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_ParserListener_java"></target>
+  <target name="t211__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_SemanticPredicateAdapter_java"></target>
+  <target name="t240__home_bram_tools_java_antlr_2_7_6_scripts____lib_cpp_antlr_Makefile_in"></target>
+  <target name="t298__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenStreamHiddenTokenFilter_cpp"></target>
+  <target name="t198__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_NewLineListener_java"></target>
+  <target name="this"></target>
+  <target name="t131__home_bram_tools_java_antlr_2_7_6_antlr____antlr_SimpleTokenManager_java"></target>
+  <target name="t226__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_Preprocessor_java"></target>
+  <target name="t23__home_bram_tools_java_antlr_2_7_6_antlr____antlr_tokdef_g"></target>
+  <target name="t117__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ParseTreeToken_java"></target>
+  <target name="t243__home_bram_tools_java_antlr_2_7_6_scripts____lib_cpp_src_Makefile_in"></target>
+  <target name="t317__home_bram_tools_java_antlr_2_7_6_scripts____doc_Makefile_in"></target>
+  <target name="t282__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_NoViableAltException_cpp"></target>
+  <target name="t67__home_bram_tools_java_antlr_2_7_6_antlr____antlr_CharLiteralElement_java"></target>
+  <target name="t45__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ANTLRStringBuffer_java"></target>
+  <target name="t34_actions_csharp_ActionLexerTokenTypes_java">
+    <command>@cd actions/csharp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</command>
+    <actual_command>@cd actions/csharp &amp;&amp; /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/antlr.sh $&lt;</actual_command>
+  </target>
+  <target name="t152__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenWithIndex_java"></target>
+  <target name="t302__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenStreamRewriteEngine_cpp"></target>
+  <target name="t137__home_bram_tools_java_antlr_2_7_6_antlr____antlr_TokenBuffer_java"></target>
+  <target name="t188__home_bram_tools_java_antlr_2_7_6_antlr____antlr_debug_InputBufferEvent_java"></target>
+  <target name="t311_Makefile">
+    <command>@echo "*** update $(subdir)/Makefile"</command>
+    <command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="$(subdir)/Makefile" /bin/sh ./config.status -q</command>
+    <actual_command>@echo "*** update lib/python/Makefile"</actual_command>
+    <actual_command>@cd /home/bram/tools/java/antlr-2.7.6 &amp;&amp; CONFIG_FILES="lib/python/Makefile" /bin/sh ./config.status -q</actual_command>
+  </target>
+  <target name="t296__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_TokenStreamBasicFilter_cpp"></target>
+  <target name="t59__home_bram_tools_java_antlr_2_7_6_antlr____antlr_BlockWithImpliedExitPath_java"></target>
+  <target name="t227__home_bram_tools_java_antlr_2_7_6_antlr____antlr_preprocessor_PreprocessorLexer_java"></target>
+  <target name="t107__home_bram_tools_java_antlr_2_7_6_antlr____antlr_Lookahead_java"></target>
+  <target name="t120__home_bram_tools_java_antlr_2_7_6_antlr____antlr_ParserSharedInputState_java"></target>
+  <target name="t247__home_bram_tools_java_antlr_2_7_6_lib_cpp_src_ANTLRUtil_o">
+    <command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</command>
+    <actual_command>@ /bin/sh /home/bram/tools/java/antlr-2.7.6/scripts/cxx.sh $&lt;</actual_command>
+  </target>
+  <target name="t284__home_bram_tools_java_antlr_2_7_6_lib_cpp_src__________lib_cpp_src_NoViableAltForCharException_cpp"></target>
+  <target name="t96__home_bram_tools_java_antlr_2_7_6_antlr____antlr_HTMLCodeGenerator_java"></target>
+</build>
